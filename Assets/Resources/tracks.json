@@ -1,0 +1,1088 @@
+{
+  "tracks": [
+    {
+      "name": "Blue Moon Bay Speedway",
+      "continent": "Americas",
+      "country": "USA",
+      "variants": [
+        {
+          "name": "Full Course",
+          "length_km": 3.200,
+          "reverse_available": true,
+          "rain_possible": false,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Midnight"
+          ]
+        },
+        {
+          "name": "Infield A",
+          "length_km": 3.350,
+          "reverse_available": true,
+          "rain_possible": false,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Midnight"
+          ]
+        },
+        {
+          "name": "Infield B",
+          "length_km": 2.860,
+          "reverse_available": true,
+          "rain_possible": false,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Midnight"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "WeatherTech Raceway Laguna Seca",
+      "continent": "Americas",
+      "country": "USA",
+      "variants": [
+        {
+          "name": "Full Course",
+          "length_km": 3.602,
+          "reverse_available": false,
+          "rain_possible": false,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Dawn",
+            "Sunrise",
+            "Night",
+            "Midnight"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Grand Valley - Highway 1",
+      "continent": "Americas",
+      "country": "USA",
+      "variants": [
+        {
+          "name": "Highway 1",
+          "length_km": 5.099,
+          "reverse_available": true,
+          "rain_possible": false,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Dawn",
+            "Midnight"
+          ]
+        },
+        {
+          "name": "South",
+          "length_km": 3.076,
+          "reverse_available": true,
+          "rain_possible": false,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Dawn",
+            "Midnight"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Special Stage Route X",
+      "continent": "Americas",
+      "country": "USA",
+      "variants": [
+        {
+          "name": "Full Course",
+          "length_km": 30.283,
+          "reverse_available": false,
+          "rain_possible": false,
+          "excluded_time_settings": []
+        }
+      ]
+    },
+    {
+      "name": "Trial Mountain Circuit",
+      "continent": "Americas",
+      "country": "USA",
+      "variants": [
+        {
+          "name": "Full Course",
+          "length_km": 5.434,
+          "reverse_available": true,
+          "rain_possible": false,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Midnight"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Willow Springs International Raceway",
+      "continent": "Americas",
+      "country": "USA",
+      "variants": [
+        {
+          "name": "Big Willow",
+          "length_km": 3.951,
+          "reverse_available": false,
+          "rain_possible": false,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Dawn",
+            "Sunrise",
+            "Midnight"
+          ]
+        },
+        {
+          "name": "Streets of Willow Springs",
+          "length_km": 2.675,
+          "reverse_available": true,
+          "rain_possible": false,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Dawn",
+            "Sunrise",
+            "Midnight"
+          ]
+        },
+        {
+          "name": "Horse Thief Mile",
+          "length_km": 1.624,
+          "reverse_available": true,
+          "rain_possible": false,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Dawn",
+            "Sunrise",
+            "Sunset",
+            "Twilight",
+            "Night",
+            "Midnight"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fishermans Ranch",
+      "continent": "Americas",
+      "country": "USA",
+      "variants": [
+        {
+          "name": "Full Course",
+          "length_km": 6.893,
+          "reverse_available": true,
+          "rain_possible": false,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Dawn",
+            "Sunrise",
+            "Night",
+            "Midnight"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Colorado Springs",
+      "continent": "Americas",
+      "country": "USA",
+      "variants": [
+        {
+          "name": "Lake",
+          "length_km": 2.990,
+          "reverse_available": true,
+          "rain_possible": false,
+          "excluded_time_settings": []
+        }
+      ]
+    },
+    {
+      "name": "Michelin Raceway Road Atlanta",
+      "continent": "Americas",
+      "country": "USA",
+      "variants": [
+        {
+          "name": "Full Course",
+          "length_km": 4.088,
+          "reverse_available": false,
+          "rain_possible": false,
+          "excluded_time_settings": []
+        }
+      ]
+    },
+    {
+      "name": "Northern Isle Speedway",
+      "continent": "Americas",
+      "country": "USA",
+      "variants": [
+        {
+          "name": "Full Course",
+          "length_km": 0.900,
+          "reverse_available": false,
+          "rain_possible": false,
+          "excluded_time_settings": []
+        }
+      ]
+    },
+    {
+      "name": "Watkins Glen International",
+      "continent": "Americas",
+      "country": "USA",
+      "variants": [
+        {
+          "name": "Long Course",
+          "length_km": 5.423,
+          "reverse_available": false,
+          "rain_possible": false,
+          "excluded_time_settings": [
+            "Midnight"
+          ]
+        },
+        {
+          "name": "Short Course",
+          "length_km": 3.942,
+          "reverse_available": false,
+          "rain_possible": false,
+          "excluded_time_settings": [
+            "Midnight"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Daytona International Speedway",
+      "continent": "Americas",
+      "country": "USA",
+      "variants": [
+        {
+          "name": "Tri-Oval",
+          "length_km": 4.023,
+          "reverse_available": false,
+          "rain_possible": false,
+          "excluded_time_settings": []
+        },
+        {
+          "name": "Road Course",
+          "length_km": 5.729,
+          "reverse_available": false,
+          "rain_possible": false,
+          "excluded_time_settings": []
+        }
+      ]
+    },
+    {
+      "name": "Autódromo de Interlagos",
+      "continent": "Americas",
+      "country": "Brazil",
+      "variants": [
+        {
+          "name": "Full Course",
+          "length_km": 4.309,
+          "reverse_available": false,
+          "rain_possible": false,
+          "excluded_time_settings": [
+            "Night",
+            "Midnight"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Brands Hatch",
+      "continent": "Europe",
+      "country": "UK",
+      "variants": [
+        {
+          "name": "Grand Prix Circuit",
+          "length_km": 3.946,
+          "reverse_available": false,
+          "rain_possible": false,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Dawn",
+            "Sunrise",
+            "Twilight",
+            "Night",
+            "Midnight"
+          ]
+        },
+        {
+          "name": "Indy Circuit",
+          "length_km": 1.944,
+          "reverse_available": false,
+          "rain_possible": false,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Dawn",
+            "Sunrise",
+            "Twilight",
+            "Night",
+            "Midnight"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Goodwood",
+      "continent": "Europe",
+      "country": "UK",
+      "variants": [
+        {
+          "name": "Full Course",
+          "length_km": 3.809,
+          "reverse_available": false,
+          "rain_possible": false,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Dawn",
+            "Sunrise",
+            "Twilight",
+            "Night",
+            "Midnight"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Circuit de Spa-Francorchamps",
+      "continent": "Europe",
+      "country": "Belgium",
+      "variants": [
+        {
+          "name": "Full Course",
+          "length_km": 7.004,
+          "reverse_available": false,
+          "rain_possible": true,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Dawn",
+            "Sunrise",
+            "Sunset",
+            "Twilight",
+            "Night",
+            "Midnight"
+          ]
+        },
+        {
+          "name": "24h Layout",
+          "length_km": 7.004,
+          "reverse_available": false,
+          "rain_possible": true,
+          "excluded_time_settings": []
+        }
+      ]
+    },
+    {
+      "name": "Nürburgring",
+      "continent": "Europe",
+      "country": "Germany",
+      "variants": [
+        {
+          "name": "Nordschleife",
+          "length_km": 20.832,
+          "reverse_available": false,
+          "rain_possible": true,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Dawn",
+            "Night",
+            "Midnight"
+          ]
+        },
+        {
+          "name": "24h",
+          "length_km": 25.378,
+          "reverse_available": false,
+          "rain_possible": true,
+          "excluded_time_settings": []
+        },
+        {
+          "name": "Grand Prix",
+          "length_km": 5.148,
+          "reverse_available": false,
+          "rain_possible": true,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Dawn",
+            "Sunrise",
+            "Twilight",
+            "Night",
+            "Midnight"
+          ]
+        },
+        {
+          "name": "Endurance",
+          "length_km": 23.864,
+          "reverse_available": false,
+          "rain_possible": true,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Dawn",
+            "Night",
+            "Midnight"
+          ]
+        },
+        {
+          "name": "Sprint",
+          "length_km": 3.629,
+          "reverse_available": false,
+          "rain_possible": true,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Dawn",
+            "Sunrise",
+            "Twilight",
+            "Night",
+            "Midnight"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "24 Heures du Mans Racing Circuit",
+      "continent": "Europe",
+      "country": "France",
+      "variants": [
+        {
+          "name": "Full Course",
+          "length_km": 13.629,
+          "reverse_available": false,
+          "rain_possible": true,
+          "excluded_time_settings": []
+        },
+        {
+          "name": "No Chicane",
+          "length_km": 13.567,
+          "reverse_available": false,
+          "rain_possible": true,
+          "excluded_time_settings": []
+        }
+      ]
+    },
+    {
+      "name": "Alsace",
+      "continent": "Europe",
+      "country": "France",
+      "variants": [
+        {
+          "name": "Village",
+          "length_km": 5.423,
+          "reverse_available": true,
+          "rain_possible": false,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Midnight"
+          ]
+        },
+        {
+          "name": "Test Course",
+          "length_km": 2.118,
+          "reverse_available": true,
+          "rain_possible": false,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Midnight"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Circuit de Sainte-Croix",
+      "continent": "Europe",
+      "country": "France",
+      "variants": [
+        {
+          "name": "Layout A",
+          "length_km": 9.477,
+          "reverse_available": true,
+          "rain_possible": false,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Dawn",
+            "Midnight"
+          ]
+        },
+        {
+          "name": "Layout B",
+          "length_km": 7.062,
+          "reverse_available": true,
+          "rain_possible": false,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Dawn",
+            "Midnight"
+          ]
+        },
+        {
+          "name": "Layout C",
+          "length_km": 10.825,
+          "reverse_available": true,
+          "rain_possible": false,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Dawn",
+            "Midnight"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Deep Forest Raceway",
+      "continent": "Europe",
+      "country": "Switzerland",
+      "variants": [
+        {
+          "name": "Full Course",
+          "length_km": 4.253,
+          "reverse_available": true,
+          "rain_possible": false,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Midnight"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Autodrome Lago Maggiore",
+      "continent": "Europe",
+      "country": "Italy",
+      "variants": [
+        {
+          "name": "Full Course",
+          "length_km": 5.809,
+          "reverse_available": true,
+          "rain_possible": false,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Dawn",
+            "Night",
+            "Midnight"
+          ]
+        },
+        {
+          "name": "Centre",
+          "length_km": 1.706,
+          "reverse_available": true,
+          "rain_possible": false,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Dawn",
+            "Night",
+            "Midnight"
+          ]
+        },
+        {
+          "name": "East End",
+          "length_km": 2.010,
+          "reverse_available": true,
+          "rain_possible": false,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Dawn",
+            "Night",
+            "Midnight"
+          ]
+        },
+        {
+          "name": "West End",
+          "length_km": 2.444,
+          "reverse_available": true,
+          "rain_possible": false,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Dawn",
+            "Night",
+            "Midnight"
+          ]
+        },
+        {
+          "name": "East",
+          "length_km": 3.643,
+          "reverse_available": true,
+          "rain_possible": false,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Dawn",
+            "Sunrise",
+            "Twilight",
+            "Night",
+            "Midnight"
+          ]
+        },
+        {
+          "name": "West",
+          "length_km": 4.168,
+          "reverse_available": true,
+          "rain_possible": false,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Dawn",
+            "Sunrise",
+            "Twilight",
+            "Night",
+            "Midnight"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Autodromo Nazionale Monza",
+      "continent": "Europe",
+      "country": "Italy",
+      "variants": [
+        {
+          "name": "Full Course",
+          "length_km": 5.793,
+          "reverse_available": false,
+          "rain_possible": false,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Dawn",
+            "Sunrise",
+            "Twilight",
+            "Night",
+            "Midnight"
+          ]
+        },
+        {
+          "name": "No Chicane",
+          "length_km": 5.755,
+          "reverse_available": false,
+          "rain_possible": false,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Dawn",
+            "Sunrise",
+            "Twilight",
+            "Night",
+            "Midnight"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sardegna - Windmills",
+      "continent": "Europe",
+      "country": "Italy",
+      "variants": [
+        {
+          "name": "Full Course",
+          "length_km": 3.310,
+          "reverse_available": true,
+          "rain_possible": false,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Midnight"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sardegna - Road Track",
+      "continent": "Europe",
+      "country": "Italy",
+      "variants": [
+        {
+          "name": "Layout A",
+          "length_km": 5.113,
+          "reverse_available": true,
+          "rain_possible": false,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Dawn",
+            "Sunrise",
+            "Twilight",
+            "Night",
+            "Midnight"
+          ]
+        },
+        {
+          "name": "Layout B",
+          "length_km": 3.893,
+          "reverse_available": true,
+          "rain_possible": false,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Dawn",
+            "Sunrise",
+            "Twilight",
+            "Night",
+            "Midnight"
+          ]
+        },
+        {
+          "name": "Layout C",
+          "length_km": 2.661,
+          "reverse_available": true,
+          "rain_possible": false,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Dawn",
+            "Sunrise",
+            "Twilight",
+            "Night",
+            "Midnight"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Circuit de Barcelona-Catalunya",
+      "continent": "Europe",
+      "country": "Spain",
+      "variants": [
+        {
+          "name": "Grand Prix Layout",
+          "length_km": 4.655,
+          "reverse_available": false,
+          "rain_possible": false,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Dawn",
+            "Sunrise",
+            "Midnight"
+          ]
+        },
+        {
+          "name": "No Chicane",
+          "length_km": 4.730,
+          "reverse_available": false,
+          "rain_possible": false,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Dawn",
+            "Sunrise",
+            "Midnight"
+          ]
+        },
+        {
+          "name": "National Layout",
+          "length_km": 2.977,
+          "reverse_available": false,
+          "rain_possible": false,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Dawn",
+            "Sunrise",
+            "Midnight"
+          ]
+        },
+        {
+          "name": "Rallycross Layout",
+          "length_km": 1.133,
+          "reverse_available": false,
+          "rain_possible": false,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Dawn",
+            "Sunrise",
+            "Midnight"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Red Bull Ring",
+      "continent": "Europe",
+      "country": "Austria",
+      "variants": [
+        {
+          "name": "Full Course",
+          "length_km": 4.318,
+          "reverse_available": false,
+          "rain_possible": true,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Midnight"
+          ]
+        },
+        {
+          "name": "Short Track",
+          "length_km": 2.336,
+          "reverse_available": false,
+          "rain_possible": true,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Midnight"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dragon Trail",
+      "continent": "Europe",
+      "country": "Croatia",
+      "variants": [
+        {
+          "name": "Seaside",
+          "length_km": 5.209,
+          "reverse_available": true,
+          "rain_possible": false,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Dawn",
+            "Midnight"
+          ]
+        },
+        {
+          "name": "Gardens",
+          "length_km": 4.352,
+          "reverse_available": true,
+          "rain_possible": true,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Dawn",
+            "Midnight"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Autopolis",
+      "continent": "Asia-Oceania",
+      "country": "Japan",
+      "variants": [
+        {
+          "name": "Full Course",
+          "length_km": 4.674,
+          "reverse_available": false,
+          "rain_possible": true,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Midnight"
+          ]
+        },
+        {
+          "name": "Shortcut Course",
+          "length_km": 3.022,
+          "reverse_available": false,
+          "rain_possible": true,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Midnight"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kyoto Driving Park",
+      "continent": "Asia-Oceania",
+      "country": "Japan",
+      "variants": [
+        {
+          "name": "Yamagiwa",
+          "length_km": 4.912,
+          "reverse_available": true,
+          "rain_possible": false,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Midnight"
+          ]
+        },
+        {
+          "name": "Miyabi",
+          "length_km": 1.953,
+          "reverse_available": false,
+          "rain_possible": false,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Midnight"
+          ]
+        },
+        {
+          "name": "Yamagiwa + Miyabi",
+          "length_km": 6.846,
+          "reverse_available": true,
+          "rain_possible": false,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Midnight"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Broad Bean Raceway",
+      "continent": "Asia-Oceania",
+      "country": "Japan",
+      "variants": [
+        {
+          "name": "Full Course",
+          "length_km": 1.665,
+          "reverse_available": true,
+          "rain_possible": false,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Midnight"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Suzuka Circuit",
+      "continent": "Asia-Oceania",
+      "country": "Japan",
+      "variants": [
+        {
+          "name": "Full Course",
+          "length_km": 5.807,
+          "reverse_available": false,
+          "rain_possible": true,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Dawn",
+            "Midnight"
+          ]
+        },
+        {
+          "name": "East Course",
+          "length_km": 2.243,
+          "reverse_available": false,
+          "rain_possible": true,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Dawn",
+            "Midnight"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tsukuba Circuit",
+      "continent": "Asia-Oceania",
+      "country": "Japan",
+      "variants": [
+        {
+          "name": "Full Course",
+          "length_km": 2.045,
+          "reverse_available": false,
+          "rain_possible": true,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Night",
+            "Midnight"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tokyo Expressway",
+      "continent": "Asia-Oceania",
+      "country": "Japan",
+      "variants": [
+        {
+          "name": "Central Clockwise",
+          "length_km": 4.405,
+          "reverse_available": false,
+          "rain_possible": true,
+          "excluded_time_settings": []
+        },
+        {
+          "name": "East Clockwise",
+          "length_km": 7.301,
+          "reverse_available": false,
+          "rain_possible": true,
+          "excluded_time_settings": []
+        },
+        {
+          "name": "South Clockwise",
+          "length_km": 5.201,
+          "reverse_available": false,
+          "rain_possible": false,
+          "excluded_time_settings": []
+        },
+        {
+          "name": "Central Counterclockwise",
+          "length_km": 4.369,
+          "reverse_available": false,
+          "rain_possible": true,
+          "excluded_time_settings": []
+        },
+        {
+          "name": "East Counterclockwise",
+          "length_km": 7.192,
+          "reverse_available": false,
+          "rain_possible": true,
+          "excluded_time_settings": []
+        },
+        {
+          "name": "South Counterclockwise",
+          "length_km": 6.560,
+          "reverse_available": false,
+          "rain_possible": false,
+          "excluded_time_settings": []
+        }
+      ]
+    },
+    {
+      "name": "Fuji International Speedway",
+      "continent": "Asia-Oceania",
+      "country": "Japan",
+      "variants": [
+        {
+          "name": "Full Course",
+          "length_km": 4.563,
+          "reverse_available": false,
+          "rain_possible": true,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Dawn",
+            "Sunrise",
+            "Twilight",
+            "Night",
+            "Midnight"
+          ]
+        },
+        {
+          "name": "Short Course",
+          "length_km": 4.526,
+          "reverse_available": false,
+          "rain_possible": true,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Dawn",
+            "Sunrise",
+            "Twilight",
+            "Night",
+            "Midnight"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "High Speed Ring",
+      "continent": "Asia-Oceania",
+      "country": "Japan",
+      "variants": [
+        {
+          "name": "Full Course",
+          "length_km": 4.345,
+          "reverse_available": true,
+          "rain_possible": true,
+          "excluded_time_settings": [
+            "Early Dawn",
+            "Dawn",
+            "Night",
+            "Midnight"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mount Panorama Circuit",
+      "continent": "Asia-Oceania",
+      "country": "Australia",
+      "variants": [
+        {
+          "name": "Full Course",
+          "length_km": 6.213,
+          "reverse_available": false,
+          "rain_possible": false,
+          "excluded_time_settings": []
+        }
+      ]
+    }
+  ]
+}

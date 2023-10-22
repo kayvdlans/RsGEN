@@ -1,0 +1,234 @@
+{
+  "race_type": {
+    "name": "Race Type",
+    "options": [
+      "Lap",
+      "Endurance"
+    ]
+  },
+  "lap_count": {
+    "name": "No of Laps",
+    "range": {
+      "min": 1,
+      "max": 200
+    },
+    "increment": 1
+  },
+  "time_limit": {
+    "name": "Time Limit",
+    "options": [
+      "1 Minute",
+      "2 Minutes",
+      "3 Minutes",
+      "5 Minutes",
+      "10 Minutes",
+      "15 Minutes",
+      "20 Minutes",
+      "25 Minutes",
+      "30 Minutes",
+      "40 Minutes",
+      "50 Minutes",
+      "60 Minutes",
+      "90 Minutes",
+      "2 Hours",
+      "3 Hours",
+      "4 Hours",
+      "5 Hours",
+      "6 Hours",
+      "7 Hours",
+      "8 Hours",
+      "9 Hours",
+      "10 Hours",
+      "11 Hours",
+      "12 Hours",
+      "13 Hours",
+      "14 Hours",
+      "15 Hours",
+      "16 Hours",
+      "17 Hours",
+      "18 Hours",
+      "19 Hours",
+      "20 Hours",
+      "21 Hours",
+      "22 Hours",
+      "23 Hours",
+      "24 Hours"
+    ]
+  },
+  "car_count": {
+    "name": "No of Cars",
+    "range": {
+      "min": 2,
+      "max": 20
+    },
+    "increment": 1
+  },
+  "starting_grid": {
+    "name": "Starting Grid",
+    "range": {
+      "min": 1,
+      "max": 20
+    },
+    "increment": 1
+  },
+  "start_type": {
+    "name": "Start Type",
+    "options": [
+      "Rolling Start",
+      "Grid Start"
+    ]
+  },
+  "rolling_start_interval": {
+    "name": "Rolling Start Interval",
+    "range": {
+      "min": 15,
+      "max": 50
+    },
+    "increment": 1
+  },
+  "bop": {
+    "name": "BoP",
+    "options": [
+      "Off",
+      "On"
+    ]
+  },
+  "boost": {
+    "name": "Boost",
+    "options": [
+      "Strong",
+      "Weak",
+      "Off"
+    ]
+  },
+  "slipstream_strength": {
+    "name": "Slipstream Strength",
+    "options": [
+      "Strong",
+      "Weak",
+      "Real"
+    ]
+  },
+  "mechanical_damage": {
+    "name": "Mechanical Damage",
+    "options": [
+      "None",
+      "Light",
+      "Heavy"
+    ]
+  },
+  "tyre_wear": {
+    "name": "Tyre Wear Rate",
+    "range": {
+      "min": 0,
+      "max": 50
+    },
+    "increment": 1
+  },
+  "fuel_consumption": {
+    "name": "Fuel Consumption Rate",
+    "range": {
+      "min": 0,
+      "max": 50
+    },
+    "increment": 1
+  },
+  "refuel_speed": {
+    "name": "Refueling Speed",
+    "range": {
+      "min": 1,
+      "max": 20
+    },
+    "increment": 1
+  },
+  "grip_reduction": {
+    "name": "Grip Reduction Off Track",
+    "options": [
+      "Low",
+      "Real"
+    ]
+  },
+  "nitrous_time_multiplier": {
+    "name": "Nitrous/Overtaking System Usage Time Multiplier",
+    "range": {
+      "min": 0.1,
+      "max": 10
+    },
+    "increment": 0.1
+  },
+  "weather_selection_method": {
+    "name": "Weather Selection Method",
+    "options": [
+      "Preset Weather",
+      "Custom Weather"
+    ]
+  },
+  "preset_weather_types": {
+    "name": "Preset Weather",
+    "options": [
+      "S01 | Dry, Cloudless and Pleasant",
+      "S02 | Dry and Pleasant with a Few Clouds",
+      "S03 | Dry, Cloudy and Pleasant",
+      "S04 | Dry, Cloudy and Sunny",
+      "S05 | Misty, Cloudless and Sunny",
+      "S06 | Humid, Cloudless and Pleasant",
+      "S07 | Humid and Pleasant with a Few Clouds",
+      "S08 | Humid, Sunny and Cloudy",
+      "S09 | Humid and Sunny with Lots of Clouds",
+      "S10 | Misty and Sunny with Lots of Clouds",
+      "S11 | Sunny with Alpine Mist",
+      "S12 | Sunny with Lots of Monsoon Clouds",
+      "S13 | Sunny with a Few Monsoon Clouds",
+      "S14 | Sunny with Lots of Monsoon Clouds",
+      "S15 | Hazy, Cloudless and Pleasant",
+      "S16 | Hazy and Sunny with a Few Clouds",
+      "S17 | Hazy, Cloudy and Sunny",
+      "S18 | Hazy, Cloudy and Sunny",
+      "C01 | Cloudy and Bright",
+      "C02 | Cloudy and Warm",
+      "C03 | Cloudy and Dark",
+      "C04 | Cloudy and Chilly",
+      "C05 | Cloudy",
+      "C06 | Thick Clouds",
+      "R01 | Light Drizzle",
+      "R02 | Cloudless with Warm Rain",
+      "R03 | Light Rain",
+      "R04 | Cloudy with Rain",
+      "R05 | Cloudy with Rain",
+      "R06 | Thick Cloud with Rain",
+      "R07 | Cloudy with Torrential Rain",
+      "R08 | Thick Cloud with Torrential Rain"
+    ]
+  },
+  "equal_conditions_mode": {
+    "name": "Equal Conditions Mode",
+    "options": [
+      "Off",
+      "On"
+    ]
+  },
+  "time_of_day": {
+    "name": "Time of the Day",
+    "options": [
+      "Early Dawn",
+      "Dawn",
+      "Sunrise",
+      "Early Morning",
+      "Late Morning",
+      "Afternoon",
+      "Evening",
+      "Sunset",
+      "Twilight",
+      "Night",
+      "Midnight"
+    ]
+  },
+  "variable_time_scale": {
+    "name": "Variable Time Speed Rate",
+    "range": {
+      "min": 0,
+      "max": 30
+    },
+    "increment": 1
+  }
+}

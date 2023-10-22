@@ -1,0 +1,5301 @@
+{
+  "cars": [
+    {
+      "name": "1500 Biposto Bertone B.A.T 1 '52",
+      "country": "Italy",
+      "manufacturer": "Abarth",
+      "year": 1952,
+      "base_pp": 259.63,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 73,
+      "weight_kg": 870,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car",
+        "Gran Turismo Trophy"
+      ]
+    },
+    {
+      "name": "Abarth 595 SS '70",
+      "country": "Italy",
+      "manufacturer": "Abarth",
+      "year": 1970,
+      "base_pp": 171.25,
+      "category": "-",
+      "drivetrain": "RR",
+      "power_bhp": 30,
+      "weight_kg": 470,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Abarth 500 '09",
+      "country": "Italy",
+      "manufacturer": "Abarth",
+      "year": 2009,
+      "base_pp": 403.65,
+      "category": "-",
+      "drivetrain": "FF",
+      "power_bhp": 133,
+      "weight_kg": 1035,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "GIULIA TZ2 carrozzata da ZAGATO '65",
+      "country": "Italy",
+      "manufacturer": "Alfa Romeo",
+      "year": 1965,
+      "base_pp": 489.11,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 168,
+      "weight_kg": 620,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Racing Car",
+        "Gran Turismo Trophy"
+      ]
+    },
+    {
+      "name": "Giulia Sprint GT Veloce '67",
+      "country": "Italy",
+      "manufacturer": "Alfa Romeo",
+      "year": 1967,
+      "base_pp": 334.81,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 104,
+      "weight_kg": 1040,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "155 2.5 V6 TI '93",
+      "country": "Italy",
+      "manufacturer": "Alfa Romeo",
+      "year": 1993,
+      "base_pp": 655.50,
+      "category": "Gr.4",
+      "drivetrain": "4WD",
+      "power_bhp": 413,
+      "weight_kg": 1010,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Racing Car"
+      ]
+    },
+    {
+      "name": "8C Competizione '08",
+      "country": "Italy",
+      "manufacturer": "Alfa Romeo",
+      "year": 2008,
+      "base_pp": 553.47,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 442,
+      "weight_kg": 1585,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "MiTo '09",
+      "country": "Italy",
+      "manufacturer": "Alfa Romeo",
+      "year": 2009,
+      "base_pp": 422.17,
+      "category": "-",
+      "drivetrain": "FF",
+      "power_bhp": 152,
+      "weight_kg": 1145,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "4C '14",
+      "country": "Italy",
+      "manufacturer": "Alfa Romeo",
+      "year": 2014,
+      "base_pp": 524.49,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 235,
+      "weight_kg": 950,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "Giulia GTAm '20",
+      "country": "Italy",
+      "manufacturer": "Alfa Romeo",
+      "year": 2020,
+      "base_pp": 580.88,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 532,
+      "weight_kg": 1580,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "A110 '72",
+      "country": "France",
+      "manufacturer": "Alpine",
+      "year": 1972,
+      "base_pp": 415.35,
+      "category": "-",
+      "drivetrain": "RR",
+      "power_bhp": 138,
+      "weight_kg": 715,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Alpine VGT Race",
+      "country": "France",
+      "manufacturer": "Alpine",
+      "year": 2015,
+      "base_pp": 742.44,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 443,
+      "weight_kg": 900,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Racing Car",
+        "Vision Gran Turismo",
+        "Midship"
+      ]
+    },
+    {
+      "name": "A110 '17",
+      "country": "France",
+      "manufacturer": "Alpine",
+      "year": 2017,
+      "base_pp": 517.93,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 248,
+      "weight_kg": 1103,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "300 SEL 6.8 AMG '71",
+      "country": "Germany",
+      "manufacturer": "AMG",
+      "year": 1971,
+      "base_pp": 517.98,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 422,
+      "weight_kg": 1635,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Racing Car"
+      ]
+    },
+    {
+      "name": "SLS AMG '10",
+      "country": "Germany",
+      "manufacturer": "AMG",
+      "year": 2010,
+      "base_pp": 585.75,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 570,
+      "weight_kg": 1620,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "SLS AMG GT3 '11",
+      "country": "Germany",
+      "manufacturer": "AMG",
+      "year": 2011,
+      "base_pp": 728.04,
+      "category": "Gr.3",
+      "drivetrain": "FR",
+      "power_bhp": 614,
+      "weight_kg": 1350,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Racing Car"
+      ]
+    },
+    {
+      "name": "A 45 AMG '13",
+      "country": "Germany",
+      "manufacturer": "AMG",
+      "year": 2013,
+      "base_pp": 518.55,
+      "category": "-",
+      "drivetrain": "4WD",
+      "power_bhp": 355,
+      "weight_kg": 1555,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Mercedes-AMG GT S '15",
+      "country": "Germany",
+      "manufacturer": "AMG",
+      "year": 2015,
+      "base_pp": 592.03,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 502,
+      "weight_kg": 1570,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Mercedes-AMG C 63 S '15",
+      "country": "Germany",
+      "manufacturer": "AMG",
+      "year": 2015,
+      "base_pp": 568.26,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 503,
+      "weight_kg": 1725,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Mercedes-AMG GT3 '16",
+      "country": "Germany",
+      "manufacturer": "AMG",
+      "year": 2016,
+      "base_pp": 730.51,
+      "category": "Gr.3",
+      "drivetrain": "FR",
+      "power_bhp": 614,
+      "weight_kg": 1325,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Racing Car",
+        "Nürburgring 24 Hours"
+      ]
+    },
+    {
+      "name": "Mercedes-AMG GT R '17",
+      "country": "Germany",
+      "manufacturer": "AMG",
+      "year": 2017,
+      "base_pp": 601.54,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 576,
+      "weight_kg": 1660,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Mercedes-AMG GT Black Series '20",
+      "country": "Germany",
+      "manufacturer": "AMG",
+      "year": 2020,
+      "base_pp": 652.15,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 719,
+      "weight_kg": 1540,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Mercedes-AMG GT3 '20",
+      "country": "Germany",
+      "manufacturer": "AMG",
+      "year": 2020,
+      "base_pp": 736.18,
+      "category": "Gr.3",
+      "drivetrain": "FR",
+      "power_bhp": 614,
+      "weight_kg": 1285,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Racing Car"
+      ]
+    },
+    {
+      "name": "SLS AMG Gr.4",
+      "country": "Germany",
+      "manufacturer": "AMG",
+      "year": -1,
+      "base_pp": 641.18,
+      "category": "Gr.4",
+      "drivetrain": "FR",
+      "power_bhp": 419,
+      "weight_kg": 1415,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Racing Car"
+      ]
+    },
+    {
+      "name": "Mercedes-AMG GT Safety Car",
+      "country": "Germany",
+      "manufacturer": "AMG",
+      "year": -1,
+      "base_pp": 587.67,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 502,
+      "weight_kg": 1570,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car",
+        "Safety Car"
+      ]
+    },
+    {
+      "name": "Amuse S2000 GT1 Turbo",
+      "country": "Japan",
+      "manufacturer": "Amuse",
+      "year": -1,
+      "base_pp": 667.51,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 616,
+      "weight_kg": 1120,
+      "aspiration": "Turbo",
+      "tags": [
+        "Professionally Tuned"
+      ]
+    },
+    {
+      "name": "Amuse NISMO 380RS Super Leggera",
+      "country": "Japan",
+      "manufacturer": "Amuse",
+      "year": -1,
+      "base_pp": 567.34,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 380,
+      "weight_kg": 1370,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Professionally Tuned"
+      ]
+    },
+    {
+      "name": "DB5 '64",
+      "country": "United Kingdom",
+      "manufacturer": "Aston Martin",
+      "year": 1964,
+      "base_pp": 438.96,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 281,
+      "weight_kg": 1468,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "One-77 '11",
+      "country": "United Kingdom",
+      "manufacturer": "Aston Martin",
+      "year": 2011,
+      "base_pp": 628.63,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 748,
+      "weight_kg": 1630,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "V12 Vantage GT3 '12",
+      "country": "United Kingdom",
+      "manufacturer": "Aston Martin",
+      "year": 2012,
+      "base_pp": 718.55,
+      "category": "Gr.3",
+      "drivetrain": "FR",
+      "power_bhp": 591,
+      "weight_kg": 1250,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Racing Car"
+      ]
+    },
+    {
+      "name": "V8 Vantage S '15",
+      "country": "United Kingdom",
+      "manufacturer": "Aston Martin",
+      "year": 2015,
+      "base_pp": 552.05,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 429,
+      "weight_kg": 1610,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "DB11 '16",
+      "country": "United Kingdom",
+      "manufacturer": "Aston Martin",
+      "year": 2016,
+      "base_pp": 577.27,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 599,
+      "weight_kg": 1770,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Valkyrie '21",
+      "country": "United Kingdom",
+      "manufacturer": "Aston Martin",
+      "year": 2021,
+      "base_pp": 842.07,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 1139,
+      "weight_kg": 1270,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car",
+        "Hypercar",
+        "Hybrid Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "V8 Vantage Gr.4",
+      "country": "United Kingdom",
+      "manufacturer": "Aston Martin",
+      "year": -1,
+      "base_pp": 640.89,
+      "category": "Gr.4",
+      "drivetrain": "FR",
+      "power_bhp": 399,
+      "weight_kg": 1350,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Racing Car"
+      ]
+    },
+    {
+      "name": "Sport quattro S1 Pikes Peak '87",
+      "country": "Germany",
+      "manufacturer": "Audi",
+      "year": 1987,
+      "base_pp": 676.35,
+      "category": "Gr.B",
+      "drivetrain": "4WD",
+      "power_bhp": 588,
+      "weight_kg": 1000,
+      "aspiration": "Turbo",
+      "tags": [
+        "Racing Car",
+        "Pikes Peak"
+      ]
+    },
+    {
+      "name": "TT Coupé 3.2 quattro '03",
+      "country": "Germany",
+      "manufacturer": "Audi",
+      "year": 2003,
+      "base_pp": 466.25,
+      "category": "-",
+      "drivetrain": "4WD",
+      "power_bhp": 239,
+      "weight_kg": 1520,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "R8 4.2 '07",
+      "country": "Germany",
+      "manufacturer": "Audi",
+      "year": 2007,
+      "base_pp": 556.55,
+      "category": "-",
+      "drivetrain": "4WD",
+      "power_bhp": 414,
+      "weight_kg": 1560,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "R18 TDI '11",
+      "country": "Germany",
+      "manufacturer": "Audi",
+      "year": 2011,
+      "base_pp": 859.41,
+      "category": "Gr.1",
+      "drivetrain": "MR",
+      "power_bhp": 532,
+      "weight_kg": 900,
+      "aspiration": "Turbo",
+      "tags": [
+        "Racing Car",
+        "Le Mans",
+        "Midship"
+      ]
+    },
+    {
+      "name": "TTS Coupé '14",
+      "country": "Germany",
+      "manufacturer": "Audi",
+      "year": 2014,
+      "base_pp": 530.57,
+      "category": "-",
+      "drivetrain": "4WD",
+      "power_bhp": 305,
+      "weight_kg": 1385,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "R8 LMS Evo '19",
+      "country": "Germany",
+      "manufacturer": "Audi",
+      "year": 2019,
+      "base_pp": 738.33,
+      "category": "Gr.3",
+      "drivetrain": "MR",
+      "power_bhp": 576,
+      "weight_kg": 1235,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Racing Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "A112 Abarth '85",
+      "country": "Italy",
+      "manufacturer": "Autobianchi",
+      "year": 1985,
+      "base_pp": 300.63,
+      "category": "-",
+      "drivetrain": "FF",
+      "power_bhp": 71,
+      "weight_kg": 710,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Mono '16",
+      "country": "United Kingdom",
+      "manufacturer": "BAC",
+      "year": 2016,
+      "base_pp": 625.81,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 304,
+      "weight_kg": 580,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "3.0 CSL '71",
+      "country": "Germany",
+      "manufacturer": "BMW",
+      "year": 1971,
+      "base_pp": 407.46,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 177,
+      "weight_kg": 1165,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "3.0 CSL '73",
+      "country": "Germany",
+      "manufacturer": "BMW",
+      "year": 1973,
+      "base_pp": 418.63,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 202,
+      "weight_kg": 1250,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "M3 Sport Evolution '89",
+      "country": "Germany",
+      "manufacturer": "BMW",
+      "year": 1989,
+      "base_pp": 467.16,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 234,
+      "weight_kg": 1200,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "M3 '89",
+      "country": "Germany",
+      "manufacturer": "BMW",
+      "year": 1989,
+      "base_pp": 459.10,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 212,
+      "weight_kg": 1200,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Z8 '01",
+      "country": "Germany",
+      "manufacturer": "BMW",
+      "year": 2001,
+      "base_pp": 534.49,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 395,
+      "weight_kg": 1610,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "M3 '03",
+      "country": "Germany",
+      "manufacturer": "BMW",
+      "year": 2003,
+      "base_pp": 519.26,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 339,
+      "weight_kg": 1560,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "M3 '07",
+      "country": "Germany",
+      "manufacturer": "BMW",
+      "year": 2007,
+      "base_pp": 536.27,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 415,
+      "weight_kg": 1655,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Z4 GT3 '11",
+      "country": "Germany",
+      "manufacturer": "BMW",
+      "year": 2011,
+      "base_pp": 706.74,
+      "category": "Gr.3",
+      "drivetrain": "FR",
+      "power_bhp": 522,
+      "weight_kg": 1190,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Racing Car"
+      ]
+    },
+    {
+      "name": "M4 '14",
+      "country": "Germany",
+      "manufacturer": "BMW",
+      "year": 2014,
+      "base_pp": 557.79,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 425,
+      "weight_kg": 1497,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "i3 '15",
+      "country": "Germany",
+      "manufacturer": "BMW",
+      "year": 2015,
+      "base_pp": 394.92,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 166,
+      "weight_kg": 1260,
+      "aspiration": "Electric Vehicle",
+      "tags": [
+        "Road Car",
+        "Electric Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "M6 GT3 Sprint Model '16",
+      "country": "Germany",
+      "manufacturer": "BMW",
+      "year": 2016,
+      "base_pp": 721.38,
+      "category": "Gr.3",
+      "drivetrain": "FR",
+      "power_bhp": 584,
+      "weight_kg": 1300,
+      "aspiration": "Turbo",
+      "tags": [
+        "Racing Car"
+      ]
+    },
+    {
+      "name": "M6 GT3 Endurance Model '16",
+      "country": "Germany",
+      "manufacturer": "BMW",
+      "year": 2016,
+      "base_pp": 720.71,
+      "category": "Gr.3",
+      "drivetrain": "FR",
+      "power_bhp": 584,
+      "weight_kg": 1300,
+      "aspiration": "Turbo",
+      "tags": [
+        "Racing Car",
+        "Nürburgring 24 Hours"
+      ]
+    },
+    {
+      "name": "M2 Competition '18",
+      "country": "Germany",
+      "manufacturer": "BMW",
+      "year": 2018,
+      "base_pp": 543.59,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 405,
+      "weight_kg": 1575,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "M4 Safety Car",
+      "country": "Germany",
+      "manufacturer": "BMW",
+      "year": -1,
+      "base_pp": 557.80,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 425,
+      "weight_kg": 1497,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car",
+        "Safety Car"
+      ]
+    },
+    {
+      "name": "M4 Gr.4",
+      "country": "Germany",
+      "manufacturer": "BMW",
+      "year": -1,
+      "base_pp": 622.91,
+      "category": "Gr.4",
+      "drivetrain": "FR",
+      "power_bhp": 394,
+      "weight_kg": 1365,
+      "aspiration": "Turbo",
+      "tags": [
+        "Racing Car"
+      ]
+    },
+    {
+      "name": "Veyron 16.4 '13",
+      "country": "France",
+      "manufacturer": "Bugatti",
+      "year": 2013,
+      "base_pp": 653.62,
+      "category": "-",
+      "drivetrain": "4WD",
+      "power_bhp": 986,
+      "weight_kg": 1888,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "Bugatti VGT",
+      "country": "France",
+      "manufacturer": "Bugatti",
+      "year": 2015,
+      "base_pp": 910.44,
+      "category": "-",
+      "drivetrain": "4WD",
+      "power_bhp": 1626,
+      "weight_kg": 1400,
+      "aspiration": "Turbo",
+      "tags": [
+        "Racing Car",
+        "Vision Gran Turismo",
+        "Midship"
+      ]
+    },
+    {
+      "name": "Chiron '16",
+      "country": "France",
+      "manufacturer": "Bugatti",
+      "year": 2016,
+      "base_pp": 696.39,
+      "category": "-",
+      "drivetrain": "4WD",
+      "power_bhp": 1479,
+      "weight_kg": 1995,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "2J '70",
+      "country": "United States",
+      "manufacturer": "Chaparrel",
+      "year": 1970,
+      "base_pp": 863.86,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 683,
+      "weight_kg": 821,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Racing Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "Corvette (C1) '58",
+      "country": "United States",
+      "manufacturer": "Chevrolet",
+      "year": 1958,
+      "base_pp": 430.34,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 243,
+      "weight_kg": 1327,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Corvette (C2) '63",
+      "country": "United States",
+      "manufacturer": "Chevrolet",
+      "year": 1963,
+      "base_pp": 506.25,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 359,
+      "weight_kg": 1380,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Camaro Z28 '69",
+      "country": "United States",
+      "manufacturer": "Chevrolet",
+      "year": 1969,
+      "base_pp": 447.13,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 289,
+      "weight_kg": 1415,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Corvette Stingray (C3) '69",
+      "country": "United States",
+      "manufacturer": "Chevrolet",
+      "year": 1969,
+      "base_pp": 505.01,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 350,
+      "weight_kg": 1490,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Corvette Convertible (C3) '69",
+      "country": "United States",
+      "manufacturer": "Chevrolet",
+      "year": 1969,
+      "base_pp": 448.62,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 298,
+      "weight_kg": 1552,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Corvette ZR-1 (C4) '89",
+      "country": "United States",
+      "manufacturer": "Chevrolet",
+      "year": 1989,
+      "base_pp": 520.83,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 375,
+      "weight_kg": 1572,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Corvette ZR1 (C6) '09",
+      "country": "United States",
+      "manufacturer": "Chevrolet",
+      "year": 2009,
+      "base_pp": 608.43,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 639,
+      "weight_kg": 1508,
+      "aspiration": "Supercharger",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Corvette C7 '14",
+      "country": "United States",
+      "manufacturer": "Chevrolet",
+      "year": 2014,
+      "base_pp": 570.92,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 453,
+      "weight_kg": 1500,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Camaro SS '16",
+      "country": "United States",
+      "manufacturer": "Chevrolet",
+      "year": 2016,
+      "base_pp": 550.08,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 453,
+      "weight_kg": 1672,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Camaro ZL1 1LE Package '18",
+      "country": "United States",
+      "manufacturer": "Chevrolet",
+      "year": 2018,
+      "base_pp": 621.44,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 649,
+      "weight_kg": 1732,
+      "aspiration": "Supercharger",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Corvette C7 ZR1 '19",
+      "country": "United States",
+      "manufacturer": "Chevrolet",
+      "year": 2019,
+      "base_pp": 644.40,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 754,
+      "weight_kg": 1615,
+      "aspiration": "Supercharger",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Corvette C8 '20",
+      "country": "United States",
+      "manufacturer": "Chevrolet",
+      "year": 2020,
+      "base_pp": 585.54,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 494,
+      "weight_kg": 1530,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "Corvette C7 Gr.3",
+      "country": "United States",
+      "manufacturer": "Chevrolet",
+      "year": -1,
+      "base_pp": 719.47,
+      "category": "Gr.3",
+      "drivetrain": "FR",
+      "power_bhp": 571,
+      "weight_kg": 1300,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Racing Car"
+      ]
+    },
+    {
+      "name": "Corvette C7 Gr.4",
+      "country": "United States",
+      "manufacturer": "Chevrolet",
+      "year": -1,
+      "base_pp": 648.25,
+      "category": "Gr.4",
+      "drivetrain": "FR",
+      "power_bhp": 414,
+      "weight_kg": 1350,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Racing Car"
+      ]
+    },
+    {
+      "name": "Corvette C7 Gr.3 Road Car",
+      "country": "United States",
+      "manufacturer": "Chevrolet",
+      "year": -1,
+      "base_pp": 573.79,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 493,
+      "weight_kg": 1480,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "CHC 1967 Chevy Nova",
+      "country": "United States",
+      "manufacturer": "Chris Holstrom Concepts",
+      "year": -2,
+      "base_pp": 616.15,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 732,
+      "weight_kg": 1366,
+      "aspiration": "Supercharger",
+      "tags": [
+        "Professionally Tuned",
+        "Gran Turismo Award"
+      ]
+    },
+    {
+      "name": "DS 21 Pallas '70",
+      "country": "France",
+      "manufacturer": "Citroën",
+      "year": 1970,
+      "base_pp": 321.08,
+      "category": "-",
+      "drivetrain": "FF",
+      "power_bhp": 103,
+      "weight_kg": 1300,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Copen '02",
+      "country": "Japan",
+      "manufacturer": "Daihatsu",
+      "year": 2002,
+      "base_pp": 292.88,
+      "category": "-",
+      "drivetrain": "FF",
+      "power_bhp": 62,
+      "weight_kg": 830,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car",
+        "Kei Car"
+      ]
+    },
+    {
+      "name": "Pantera '71",
+      "country": "Italy",
+      "manufacturer": "De Tomaso",
+      "year": 1971,
+      "base_pp": 471.07,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 325,
+      "weight_kg": 1420,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "Mangusta (Christian Dior)",
+      "country": "Italy",
+      "manufacturer": "De Tomaso",
+      "year": -1,
+      "base_pp": 486.05,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 300,
+      "weight_kg": 1185,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "DeLorean S2 '04",
+      "country": "United States",
+      "manufacturer": "DMC",
+      "year": 2004,
+      "base_pp": 449.51,
+      "category": "-",
+      "drivetrain": "RR",
+      "power_bhp": 197,
+      "weight_kg": 1288,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Challenger R/T '70",
+      "country": "United States",
+      "manufacturer": "Dodge",
+      "year": 1970,
+      "base_pp": 488.45,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 425,
+      "weight_kg": 1724,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Super Bee '70",
+      "country": "United States",
+      "manufacturer": "Dodge",
+      "year": 1970,
+      "base_pp": 442.80,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 335,
+      "weight_kg": 1533,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Viper GTS '02",
+      "country": "United States",
+      "manufacturer": "Dodge",
+      "year": 2002,
+      "base_pp": 558.07,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 448,
+      "weight_kg": 1569,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Viper SRT10 Coupe '06",
+      "country": "United States",
+      "manufacturer": "Dodge",
+      "year": 2006,
+      "base_pp": 573.19,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 508,
+      "weight_kg": 1565,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Viper GTS '13",
+      "country": "United States",
+      "manufacturer": "Dodge",
+      "year": 2013,
+      "base_pp": 598.27,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 640,
+      "weight_kg": 1556,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Charger SRT Hellcat '15",
+      "country": "United States",
+      "manufacturer": "Dodge",
+      "year": 2015,
+      "base_pp": 596.70,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 707,
+      "weight_kg": 1980,
+      "aspiration": "Supercharger",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Viper SRT GT3-R '15",
+      "country": "United States",
+      "manufacturer": "Dodge",
+      "year": 2015,
+      "base_pp": 740.95,
+      "category": "Gr.3",
+      "drivetrain": "FR",
+      "power_bhp": 678,
+      "weight_kg": 1290,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Racing Car"
+      ]
+    },
+    {
+      "name": "SRT Tomahawk X VGT",
+      "country": "United States",
+      "manufacturer": "Dodge",
+      "year": 2035,
+      "base_pp": 1359.35,
+      "category": "-",
+      "drivetrain": "4WD",
+      "power_bhp": 2586,
+      "weight_kg": 749,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Racing Car",
+        "Vision Gran Turismo",
+        "Hybrid Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "Viper Gr.4",
+      "country": "United States",
+      "manufacturer": "Dodge",
+      "year": -1,
+      "base_pp": 646.21,
+      "category": "Gr.4",
+      "drivetrain": "FR",
+      "power_bhp": 428,
+      "weight_kg": 1400,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Racing Car"
+      ]
+    },
+    {
+      "name": "Charger SRT Hellcat Safety Car",
+      "country": "United States",
+      "manufacturer": "Dodge",
+      "year": -1,
+      "base_pp": 595.87,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 707,
+      "weight_kg": 1980,
+      "aspiration": "Supercharger",
+      "tags": [
+        "Road Car",
+        "Safety Car"
+      ]
+    },
+    {
+      "name": "DS 3 Racing '11",
+      "country": "France",
+      "manufacturer": "DS AUTOMOBILES",
+      "year": 2011,
+      "base_pp": 459.69,
+      "category": "-",
+      "drivetrain": "FF",
+      "power_bhp": 203,
+      "weight_kg": 1165,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Mach Forty",
+      "country": "United States",
+      "manufacturer": "Eckert's Rod & Custom",
+      "year": -1,
+      "base_pp": 630.68,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 787,
+      "weight_kg": 1588,
+      "aspiration": "Supercharger",
+      "tags": [
+        "Professionally Tuned",
+        "Gran Turismo Award",
+        "Midship"
+      ]
+    },
+    {
+      "name": "500 Mondial Pinin Farina Coupe '54",
+      "country": "Italy",
+      "manufacturer": "Ferrari",
+      "year": 1954,
+      "base_pp": 486.02,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 168,
+      "weight_kg": 720,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car",
+        "Gran Turismo Trophy"
+      ]
+    },
+    {
+      "name": "330 P4 '67",
+      "country": "Italy",
+      "manufacturer": "Ferrari",
+      "year": 1967,
+      "base_pp": 703.91,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 448,
+      "weight_kg": 792,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Racing Car",
+        "Le Mans",
+        "Midship"
+      ]
+    },
+    {
+      "name": "Dino 246 GT '71",
+      "country": "Italy",
+      "manufacturer": "Ferrari",
+      "year": 1971,
+      "base_pp": 440.34,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 191,
+      "weight_kg": 1080,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "365 GTB4 '71",
+      "country": "Italy",
+      "manufacturer": "Ferrari",
+      "year": 1971,
+      "base_pp": 541.26,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 347,
+      "weight_kg": 1200,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "308 GTB '75",
+      "country": "Italy",
+      "manufacturer": "Ferrari",
+      "year": 1975,
+      "base_pp": 469.51,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 251,
+      "weight_kg": 1090,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "512 BB '76",
+      "country": "Italy",
+      "manufacturer": "Ferrari",
+      "year": 1976,
+      "base_pp": 532.77,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 354,
+      "weight_kg": 1400,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "Testarossa '91",
+      "country": "Italy",
+      "manufacturer": "Ferrari",
+      "year": 1991,
+      "base_pp": 526.33,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 384,
+      "weight_kg": 1506,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "F40 '92",
+      "country": "Italy",
+      "manufacturer": "Ferrari",
+      "year": 1992,
+      "base_pp": 597.31,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 471,
+      "weight_kg": 1100,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "F430 '06",
+      "country": "Italy",
+      "manufacturer": "Ferrari",
+      "year": 2006,
+      "base_pp": 592.17,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 495,
+      "weight_kg": 1450,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "458 Italia '09",
+      "country": "Italy",
+      "manufacturer": "Ferrari",
+      "year": 2009,
+      "base_pp": 612.73,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 563,
+      "weight_kg": 1485,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "F12berlinetta '12",
+      "country": "Italy",
+      "manufacturer": "Ferrari",
+      "year": 2012,
+      "base_pp": 637.13,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 730,
+      "weight_kg": 1525,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "FXX K '14",
+      "country": "Italy",
+      "manufacturer": "Ferrari",
+      "year": 2014,
+      "base_pp": 780.25,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 1034,
+      "weight_kg": 1165,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car",
+        "Hypercar",
+        "Hybrid Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "Ferrari VGT",
+      "country": "Italy",
+      "manufacturer": "Ferrari",
+      "year": 2022,
+      "base_pp": 938.35,
+      "category": "-",
+      "drivetrain": "4WD",
+      "power_bhp": 1363,
+      "weight_kg": 1250,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car",
+        "Vision Gran Turismo",
+        "Hybrid Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "458 Italia Gr.4",
+      "country": "Italy",
+      "manufacturer": "Ferrari",
+      "year": -1,
+      "base_pp": 632.71,
+      "category": "Gr.4",
+      "drivetrain": "MR",
+      "power_bhp": 374,
+      "weight_kg": 1350,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Racing Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "500 F '68",
+      "country": "Italy",
+      "manufacturer": "Fiat",
+      "year": 1968,
+      "base_pp": 85.97,
+      "category": "-",
+      "drivetrain": "RR",
+      "power_bhp": 16,
+      "weight_kg": 520,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "500 1.2 8V Lounge SS '08",
+      "country": "Italy",
+      "manufacturer": "Fiat",
+      "year": 2008,
+      "base_pp": 279.94,
+      "category": "-",
+      "drivetrain": "FF",
+      "power_bhp": 65,
+      "weight_kg": 1010,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Ford Roadster",
+      "country": "United States",
+      "manufacturer": "Ford",
+      "year": 1963,
+      "base_pp": 411.00,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 179,
+      "weight_kg": 1115,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "GT40 Mark I '66",
+      "country": "United States",
+      "manufacturer": "Ford",
+      "year": 1966,
+      "base_pp": 559.93,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 354,
+      "weight_kg": 1080,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "Mark IV Race Car '67",
+      "country": "United States",
+      "manufacturer": "Ford",
+      "year": 1967,
+      "base_pp": 680.98,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 503,
+      "weight_kg": 1000,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Racing Car",
+        "Le Mans",
+        "Midship"
+      ]
+    },
+    {
+      "name": "Mustang Boss 429 '69",
+      "country": "United States",
+      "manufacturer": "Ford",
+      "year": 1969,
+      "base_pp": 497.21,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 374,
+      "weight_kg": 1614,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Mustang Mach 1 '71",
+      "country": "United States",
+      "manufacturer": "Ford",
+      "year": 1971,
+      "base_pp": 438.66,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 302,
+      "weight_kg": 1615,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Sierra RS 500 Cosworth '87",
+      "country": "United States",
+      "manufacturer": "Ford",
+      "year": 1987,
+      "base_pp": 464.09,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 223,
+      "weight_kg": 1207,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Ford GT '06",
+      "country": "United States",
+      "manufacturer": "Ford",
+      "year": 2006,
+      "base_pp": 600.06,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 550,
+      "weight_kg": 1451,
+      "aspiration": "Supercharger",
+      "tags": [
+        "Road Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "F-150 SVT Raptor '11",
+      "country": "United States",
+      "manufacturer": "Ford",
+      "year": 2011,
+      "base_pp": 434.38,
+      "category": "-",
+      "drivetrain": "4WD",
+      "power_bhp": 411,
+      "weight_kg": 2724,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car",
+        "Pickup Truck"
+      ]
+    },
+    {
+      "name": "Mustang GT '15",
+      "country": "United States",
+      "manufacturer": "Ford",
+      "year": 2015,
+      "base_pp": 537.25,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 434,
+      "weight_kg": 1681,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Focus ST'15",
+      "country": "United States",
+      "manufacturer": "Ford",
+      "year": 2015,
+      "base_pp": 491.59,
+      "category": "-",
+      "drivetrain": "FF",
+      "power_bhp": 250,
+      "weight_kg": 1462,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Shelby GT350R '16",
+      "country": "United States",
+      "manufacturer": "Ford",
+      "year": 2016,
+      "base_pp": 571.29,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 525,
+      "weight_kg": 1658,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Ford GT '17",
+      "country": "United States",
+      "manufacturer": "Ford",
+      "year": 2017,
+      "base_pp": 625.50,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 646,
+      "weight_kg": 1385,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "Focus RS '18",
+      "country": "United States",
+      "manufacturer": "Ford",
+      "year": 2018,
+      "base_pp": 521.17,
+      "category": "-",
+      "drivetrain": "4WD",
+      "power_bhp": 350,
+      "weight_kg": 1557,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Mustang Gr.3",
+      "country": "United States",
+      "manufacturer": "Ford",
+      "year": -1,
+      "base_pp": 702.69,
+      "category": "Gr.3",
+      "drivetrain": "FR",
+      "power_bhp": 568,
+      "weight_kg": 1300,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Racing Car"
+      ]
+    },
+    {
+      "name": "Mustang Gr.4",
+      "country": "United States",
+      "manufacturer": "Ford",
+      "year": -1,
+      "base_pp": 630.69,
+      "category": "Gr.4",
+      "drivetrain": "FR",
+      "power_bhp": 395,
+      "weight_kg": 1400,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Racing Car"
+      ]
+    },
+    {
+      "name": "Mustang Gr.B Rally Car",
+      "country": "United States",
+      "manufacturer": "Ford",
+      "year": -1,
+      "base_pp": 647.39,
+      "category": "Gr.B",
+      "drivetrain": "4WD",
+      "power_bhp": 549,
+      "weight_kg": 1380,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Racing Car"
+      ]
+    },
+    {
+      "name": "Focus Gr.B Rally Car",
+      "country": "United States",
+      "manufacturer": "Ford",
+      "year": -1,
+      "base_pp": 670.56,
+      "category": "Gr.B",
+      "drivetrain": "4WD",
+      "power_bhp": 538,
+      "weight_kg": 1260,
+      "aspiration": "Turbo",
+      "tags": [
+        "Racing Car"
+      ]
+    },
+    {
+      "name": "Focus Gr.3 Road Car",
+      "country": "United States",
+      "manufacturer": "Ford",
+      "year": -1,
+      "base_pp": 570.53,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 502,
+      "weight_kg": 1500,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "G70 3.3T AWD P.Package '22",
+      "country": "Korea",
+      "manufacturer": "Genesis",
+      "year": 2022,
+      "base_pp": 505.52,
+      "category": "-",
+      "drivetrain": "4WD",
+      "power_bhp": 366,
+      "weight_kg": 1815,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Red Bull X2014 Junior",
+      "country": "Others",
+      "manufacturer": "Gran Turismo",
+      "year": 2014,
+      "base_pp": 675.41,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 246,
+      "weight_kg": 550,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Racing Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "Red Bull X2019 Competition",
+      "country": "Others",
+      "manufacturer": "Gran Turismo",
+      "year": 2019,
+      "base_pp": 943.85,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 804,
+      "weight_kg": 650,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Racing Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "Racing Kart 125 Shifter",
+      "country": "Others",
+      "manufacturer": "Gran Turismo",
+      "year": -1,
+      "base_pp": 584.07,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 49,
+      "weight_kg": 105,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Racing Car",
+        "Kart",
+        "Midship"
+      ]
+    },
+    {
+      "name": "F1500T-A",
+      "country": "Others",
+      "manufacturer": "Gran Turismo",
+      "year": -1,
+      "base_pp": 940.21,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 986,
+      "weight_kg": 540,
+      "aspiration": "Turbo",
+      "tags": [
+        "Racing Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "GReddy Fugu Z",
+      "country": "United States",
+      "manufacturer": "GReddy",
+      "year": -1,
+      "base_pp": 532.23,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 294,
+      "weight_kg": 1100,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Professionally Tuned",
+        "Gran Turismo Award"
+      ]
+    },
+    {
+      "name": "Garage RCR Civic",
+      "country": "United States",
+      "manufacturer": "Garage RCR",
+      "year": -2,
+      "base_pp": 589.79,
+      "category": "-",
+      "drivetrain": "FF",
+      "power_bhp": 389,
+      "weight_kg": 1014,
+      "aspiration": "Turbo",
+      "tags": [
+        "Professionally Tuned",
+        "Gran Turismo Award"
+      ]
+    },
+    {
+      "name": "GAC Maverick",
+      "country": "United States",
+      "manufacturer": "Greening Auto Company",
+      "year": -1,
+      "base_pp": 660.37,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 1199,
+      "weight_kg": 1633,
+      "aspiration": "Turbo",
+      "tags": [
+        "Professionally Tuned",
+        "Gran Turismo Award"
+      ]
+    },
+    {
+      "name": "RA272 '65",
+      "country": "Japan",
+      "manufacturer": "Honda",
+      "year": 1965,
+      "base_pp": 626.39,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 228,
+      "weight_kg": 498,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Racing Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "S800 '66",
+      "country": "Japan",
+      "manufacturer": "Honda",
+      "year": 1966,
+      "base_pp": 269.01,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 68,
+      "weight_kg": 720,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Beat '91",
+      "country": "Japan",
+      "manufacturer": "Honda",
+      "year": 1991,
+      "base_pp": 307.95,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 63,
+      "weight_kg": 760,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car",
+        "Kei Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "NSX Type R '92",
+      "country": "Japan",
+      "manufacturer": "Honda",
+      "year": 1992,
+      "base_pp": 527.96,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 284,
+      "weight_kg": 1230,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "Integra Type R (DC2) '95",
+      "country": "Japan",
+      "manufacturer": "Honda",
+      "year": 1995,
+      "base_pp": 461.80,
+      "category": "-",
+      "drivetrain": "FF",
+      "power_bhp": 197,
+      "weight_kg": 1060,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Civic Type R (EK) '97",
+      "country": "Japan",
+      "manufacturer": "Honda",
+      "year": 1997,
+      "base_pp": 436.08,
+      "category": "-",
+      "drivetrain": "FF",
+      "power_bhp": 176,
+      "weight_kg": 1050,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Civic Type R (EK) Touring Car",
+      "country": "Japan",
+      "manufacturer": "Honda",
+      "year": 1997,
+      "base_pp": 541.13,
+      "category": "-",
+      "drivetrain": "FF",
+      "power_bhp": 247,
+      "weight_kg": 845,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Professionaly Tuned"
+      ]
+    },
+    {
+      "name": "Integra Type R (DC2) '98",
+      "country": "Japan",
+      "manufacturer": "Honda",
+      "year": 1998,
+      "base_pp": 463.87,
+      "category": "-",
+      "drivetrain": "FF",
+      "power_bhp": 198,
+      "weight_kg": 1080,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Civic Type R (EK) '98",
+      "country": "Japan",
+      "manufacturer": "Honda",
+      "year": 1998,
+      "base_pp": 437.60,
+      "category": "-",
+      "drivetrain": "FF",
+      "power_bhp": 181,
+      "weight_kg": 1050,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "S2000 '99",
+      "country": "Japan",
+      "manufacturer": "Honda",
+      "year": 1999,
+      "base_pp": 478.84,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 242,
+      "weight_kg": 1240,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "NSX Type R '02",
+      "country": "Japan",
+      "manufacturer": "Honda",
+      "year": 2002,
+      "base_pp": 533.74,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 290,
+      "weight_kg": 1270,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "Fit Hybrid '14",
+      "country": "Japan",
+      "manufacturer": "Honda",
+      "year": 2014,
+      "base_pp": 339.33,
+      "category": "-",
+      "drivetrain": "FF",
+      "power_bhp": 138,
+      "weight_kg": 1080,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car",
+        "Hybrid Car"
+      ]
+    },
+    {
+      "name": "Civic Type R (FK2) '15",
+      "country": "Japan",
+      "manufacturer": "Honda",
+      "year": 2015,
+      "base_pp": 515.61,
+      "category": "-",
+      "drivetrain": "FF",
+      "power_bhp": 305,
+      "weight_kg": 1380,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "S660 '15",
+      "country": "Japan",
+      "manufacturer": "Honda",
+      "year": 2015,
+      "base_pp": 345.03,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 63,
+      "weight_kg": 830,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car",
+        "Kei Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "NSX CONCEPT-GT '16",
+      "country": "Japan",
+      "manufacturer": "Honda",
+      "year": 2016,
+      "base_pp": 836.21,
+      "category": "Gr.2",
+      "drivetrain": "MR",
+      "power_bhp": 603,
+      "weight_kg": 1049,
+      "aspiration": "Turbo",
+      "tags": [
+        "Racing Car",
+        "GT500",
+        "Midship"
+      ]
+    },
+    {
+      "name": "NSX '17",
+      "country": "Japan",
+      "manufacturer": "Honda",
+      "year": 2017,
+      "base_pp": 584.48,
+      "category": "-",
+      "drivetrain": "4WD",
+      "power_bhp": 570,
+      "weight_kg": 1780,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car",
+        "Hybrid Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "Civic Type R Limited Edition (FK8) '20",
+      "country": "Japan",
+      "manufacturer": "Honda",
+      "year": 2020,
+      "base_pp": 523.93,
+      "category": "-",
+      "drivetrain": "FF",
+      "power_bhp": 315,
+      "weight_kg": 1370,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Civic Type R (FL5) '22",
+      "country": "Japan",
+      "manufacturer": "Honda",
+      "year": 2022,
+      "base_pp": 529.55,
+      "category": "-",
+      "drivetrain": "FF",
+      "power_bhp": 325,
+      "weight_kg": 1430,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "NSX Gr.B Rally Car",
+      "country": "Japan",
+      "manufacturer": "Honda",
+      "year": -1,
+      "base_pp": 666.14,
+      "category": "Gr.B",
+      "drivetrain": "4WD",
+      "power_bhp": 557,
+      "weight_kg": 1300,
+      "aspiration": "Turbo",
+      "tags": [
+        "Racing Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "NSX Gr.4",
+      "country": "Japan",
+      "manufacturer": "Honda",
+      "year": -1,
+      "base_pp": 639.10,
+      "category": "Gr.4",
+      "drivetrain": "MR",
+      "power_bhp": 394,
+      "weight_kg": 1360,
+      "aspiration": "Turbo",
+      "tags": [
+        "Racing Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "Genesis Coupe 3.8 '13",
+      "country": "Korea",
+      "manufacturer": "Hyundai",
+      "year": 2013,
+      "base_pp": 513.19,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 343,
+      "weight_kg": 1557,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Genesis Gr.4",
+      "country": "Korea",
+      "manufacturer": "Hyundai",
+      "year": -1,
+      "base_pp": 623.19,
+      "category": "Gr.4",
+      "drivetrain": "FR",
+      "power_bhp": 384,
+      "weight_kg": 1350,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Racing Car"
+      ]
+    },
+    {
+      "name": "Italdesign VGT Off-road Mode",
+      "country": "Italy",
+      "manufacturer": "Italdesign",
+      "year": 2023,
+      "base_pp": 793.38,
+      "category": "-",
+      "drivetrain": "4WD",
+      "power_bhp": 1219,
+      "weight_kg": 1000,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car",
+        "Vision Gran Turismo",
+        "Hybrid Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "E-type Coupé '61",
+      "country": "United Kingdom",
+      "manufacturer": "Jaguar",
+      "year": 1961,
+      "base_pp": 443.61,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 264,
+      "weight_kg": 1300,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "XJ13 '66",
+      "country": "United Kingdom",
+      "manufacturer": "Jaguar",
+      "year": 1966,
+      "base_pp": 681.31,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 510,
+      "weight_kg": 998,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Racing Car",
+        "Le Mans",
+        "Midship"
+      ]
+    },
+    {
+      "name": "XJR-9 '88",
+      "country": "United Kingdom",
+      "manufacturer": "Jaguar",
+      "year": 1988,
+      "base_pp": 863.66,
+      "category": "Gr.1",
+      "drivetrain": "MR",
+      "power_bhp": 749,
+      "weight_kg": 894,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Racing Car",
+        "Le Mans",
+        "Midship"
+      ]
+    },
+    {
+      "name": "XJ220 '92",
+      "country": "United Kingdom",
+      "manufacturer": "Jaguar",
+      "year": 1992,
+      "base_pp": 592.62,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 515,
+      "weight_kg": 1372,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "F-type R '14",
+      "country": "United Kingdom",
+      "manufacturer": "Jaguar",
+      "year": 2014,
+      "base_pp": 569.02,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 542,
+      "weight_kg": 1650,
+      "aspiration": "Supercharger",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Jaguar VGT Coupé",
+      "country": "United Kingdom",
+      "manufacturer": "Jaguar",
+      "year": 2019,
+      "base_pp": 761.72,
+      "category": "-",
+      "drivetrain": "4WD",
+      "power_bhp": 1004,
+      "weight_kg": 1400,
+      "aspiration": "Electric Vehicle",
+      "tags": [
+        "Road Car",
+        "Vision Gran Turismo",
+        "Electric Car"
+      ]
+    },
+    {
+      "name": "F-type Gr.3",
+      "country": "United Kingdom",
+      "manufacturer": "Jaguar",
+      "year": -1,
+      "base_pp": 714.63,
+      "category": "Gr.3",
+      "drivetrain": "FR",
+      "power_bhp": 552,
+      "weight_kg": 1250,
+      "aspiration": "Supercharger",
+      "tags": [
+        "Racing Car"
+      ]
+    },
+    {
+      "name": "F-type Gr.4",
+      "country": "United Kingdom",
+      "manufacturer": "Jaguar",
+      "year": -1,
+      "base_pp": 638.49,
+      "category": "Gr.4",
+      "drivetrain": "FR",
+      "power_bhp": 399,
+      "weight_kg": 1350,
+      "aspiration": "Supercharger",
+      "tags": [
+        "Racing Car"
+      ]
+    },
+    {
+      "name": "Willys MB '45",
+      "country": "United States",
+      "manufacturer": "Jeep",
+      "year": 1945,
+      "base_pp": 180.07,
+      "category": "-",
+      "drivetrain": "4WD",
+      "power_bhp": 60,
+      "weight_kg": 1113,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "X-BOW R '12",
+      "country": "Austria",
+      "manufacturer": "KTM",
+      "year": 2012,
+      "base_pp": 589.60,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 298,
+      "weight_kg": 790,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "Countach 25th Anniversary '88",
+      "country": "Italy",
+      "manufacturer": "Lamborghini",
+      "year": 1988,
+      "base_pp": 532.05,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 449,
+      "weight_kg": 1490,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "Diablo GT '00",
+      "country": "Italy",
+      "manufacturer": "Lamborghini",
+      "year": 2000,
+      "base_pp": 598.71,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 571,
+      "weight_kg": 1490,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "Murciélago LP 640 '09",
+      "country": "Italy",
+      "manufacturer": "Lamborghini",
+      "year": 2009,
+      "base_pp": 604.23,
+      "category": "-",
+      "drivetrain": "4WD",
+      "power_bhp": 631,
+      "weight_kg": 1665,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "Stratos '73",
+      "country": "Italy",
+      "manufacturer": "Lancia",
+      "year": 1973,
+      "base_pp": 443.96,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 185,
+      "weight_kg": 980,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "Delta HF Integrale Evoluzione '91",
+      "country": "Italy",
+      "manufacturer": "Lancia",
+      "year": 1991,
+      "base_pp": 407.57,
+      "category": "-",
+      "drivetrain": "4WD",
+      "power_bhp": 209,
+      "weight_kg": 1350,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "RC F '14",
+      "country": "Japan",
+      "manufacturer": "Lexus",
+      "year": 2014,
+      "base_pp": 548.77,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 469,
+      "weight_kg": 1790,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "RC F GT500 '16",
+      "country": "Japan",
+      "manufacturer": "Lexus",
+      "year": 2016,
+      "base_pp": 836.14,
+      "category": "Gr.2",
+      "drivetrain": "FR",
+      "power_bhp": 614,
+      "weight_kg": 1020,
+      "aspiration": "Turbo",
+      "tags": [
+        "Racing Car",
+        "GT500"
+      ]
+    },
+    {
+      "name": "LC500 '17",
+      "country": "Japan",
+      "manufacturer": "Lexus",
+      "year": 2017,
+      "base_pp": 547.82,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 469,
+      "weight_kg": 1940,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "A6GCS/53 Spyder '54",
+      "country": "Italy",
+      "manufacturer": "Maserati",
+      "year": 1954,
+      "base_pp": 495.34,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 166,
+      "weight_kg": 740,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Racing Car",
+        "Gran Turismo Trophy"
+      ]
+    },
+    {
+      "name": "Merak SS '80",
+      "country": "Italy",
+      "manufacturer": "Maserati",
+      "year": 1980,
+      "base_pp": 417.33,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 216,
+      "weight_kg": 1420,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "GranTurismo S '08",
+      "country": "Italy",
+      "manufacturer": "Maserati",
+      "year": 2008,
+      "base_pp": 539.47,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 439,
+      "weight_kg": 1780,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "MC20 '20",
+      "country": "Italy",
+      "manufacturer": "Maserati",
+      "year": 2020,
+      "base_pp": 620.95,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 621,
+      "weight_kg": 1500,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "RX500 '70",
+      "country": "Japan",
+      "manufacturer": "Mazda",
+      "year": 1970,
+      "base_pp": 469.43,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 247,
+      "weight_kg": 850,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "Eunos Roadster (NA) '89",
+      "country": "Japan",
+      "manufacturer": "Mazda",
+      "year": 1989,
+      "base_pp": 369.25,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 117,
+      "weight_kg": 940,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "RX-7 GT-X (FC) '90",
+      "country": "Japan",
+      "manufacturer": "Mazda",
+      "year": 1990,
+      "base_pp": 456.66,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 203,
+      "weight_kg": 1250,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "787B '91",
+      "country": "Japan",
+      "manufacturer": "Mazda",
+      "year": 1991,
+      "base_pp": 842.50,
+      "category": "Gr.1",
+      "drivetrain": "MR",
+      "power_bhp": 690,
+      "weight_kg": 830,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Racing Car",
+        "Le Mans",
+        "Midship"
+      ]
+    },
+    {
+      "name": "RX-7 Spirit R Type A (FD) '02",
+      "country": "Japan",
+      "manufacturer": "Mazda",
+      "year": 2002,
+      "base_pp": 518.17,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 292,
+      "weight_kg": 1270,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "RX-8 Spirit R '12",
+      "country": "Japan",
+      "manufacturer": "Mazda",
+      "year": 2012,
+      "base_pp": 591.23,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 230,
+      "weight_kg": 1350,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "LM55 VGT (Gr.1)",
+      "country": "Japan",
+      "manufacturer": "Mazda",
+      "year": 2014,
+      "base_pp": 895.05,
+      "category": "Gr.1",
+      "drivetrain": "4WD",
+      "power_bhp": 641,
+      "weight_kg": 880,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Racing Car",
+        "Vision Gran Turismo",
+        "Midship"
+      ]
+    },
+    {
+      "name": "Roadster S (ND) '15",
+      "country": "Japan",
+      "manufacturer": "Mazda",
+      "year": 2015,
+      "base_pp": 414.26,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 128,
+      "weight_kg": 990,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Atenza Sedan XD L Package '15",
+      "country": "Japan",
+      "manufacturer": "Mazda",
+      "year": 2015,
+      "base_pp": 374.68,
+      "category": "-",
+      "drivetrain": "4WD",
+      "power_bhp": 172,
+      "weight_kg": 1600,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Demio XD Touring '15",
+      "country": "Japan",
+      "manufacturer": "Mazda",
+      "year": 2015,
+      "base_pp": 322.99,
+      "category": "-",
+      "drivetrain": "FF",
+      "power_bhp": 103,
+      "weight_kg": 1080,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Mazda3 '19",
+      "country": "Japan",
+      "manufacturer": "Mazda",
+      "year": 2019,
+      "base_pp": 419.70,
+      "category": "-",
+      "drivetrain": "4WD",
+      "power_bhp": 177,
+      "weight_kg": 1480,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "RX-VISION GT3 CONCEPT",
+      "country": "Japan",
+      "manufacturer": "Mazda",
+      "year": -1,
+      "base_pp": 726.19,
+      "category": "Gr.3",
+      "drivetrain": "FR",
+      "power_bhp": 562,
+      "weight_kg": 1250,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Racing Car"
+      ]
+    },
+    {
+      "name": "Roadster NR-A (ND) '22",
+      "country": "Japan",
+      "manufacturer": "Mazda",
+      "year": 2022,
+      "base_pp": 417.20,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 130,
+      "weight_kg": 1010,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Roadster Touring Car",
+      "country": "Japan",
+      "manufacturer": "Mazda",
+      "year": -1,
+      "base_pp": 526.78,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 205,
+      "weight_kg": 795,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Professionally Tuned"
+      ]
+    },
+    {
+      "name": "MP4/4 '88",
+      "country": "United Kingdom",
+      "manufacturer": "McLaren",
+      "year": 1988,
+      "base_pp": 898.75,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 675,
+      "weight_kg": 540,
+      "aspiration": "Turbo",
+      "tags": [
+        "Racing Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "MP4-12C '10",
+      "country": "United Kingdom",
+      "manufacturer": "McLaren",
+      "year": 2010,
+      "base_pp": 619.64,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 600,
+      "weight_kg": 1350,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "650S '14",
+      "country": "United Kingdom",
+      "manufacturer": "McLaren",
+      "year": 2014,
+      "base_pp": 629.75,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 641,
+      "weight_kg": 1330,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "650S GT3 '15",
+      "country": "United Kingdom",
+      "manufacturer": "McLaren",
+      "year": 2015,
+      "base_pp": 714.45,
+      "category": "Gr.3",
+      "drivetrain": "MR",
+      "power_bhp": 542,
+      "weight_kg": 1240,
+      "aspiration": "Turbo",
+      "tags": [
+        "Racing Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "650S Gr.4",
+      "country": "United Kingdom",
+      "manufacturer": "McLaren",
+      "year": -1,
+      "base_pp": 635.70,
+      "category": "Gr.4",
+      "drivetrain": "MR",
+      "power_bhp": 399,
+      "weight_kg": 1300,
+      "aspiration": "Turbo",
+      "tags": [
+        "Racing Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "Sauber Mercedes C9 '89",
+      "country": "Germany",
+      "manufacturer": "Mercedes-Benz",
+      "year": 1989,
+      "base_pp": 852.20,
+      "category": "Gr.1",
+      "drivetrain": "MR",
+      "power_bhp": 710,
+      "weight_kg": 893,
+      "aspiration": "Turbo",
+      "tags": [
+        "Racing Car",
+        "Le Mans",
+        "Midship"
+      ]
+    },
+    {
+      "name": "SLR McLaren '09",
+      "country": "Germany",
+      "manufacturer": "Mercedes-Benz",
+      "year": 2009,
+      "base_pp": 596.79,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 616,
+      "weight_kg": 1768,
+      "aspiration": "Supercharger",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Mini-Cooper 'S' '65",
+      "country": "Germany",
+      "manufacturer": "MINI",
+      "year": 1965,
+      "base_pp": 257.50,
+      "category": "-",
+      "drivetrain": "FF",
+      "power_bhp": 64,
+      "weight_kg": 605,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "MINI Cooper S '05",
+      "country": "Germany",
+      "manufacturer": "MINI",
+      "year": 2005,
+      "base_pp": 437.01,
+      "category": "-",
+      "drivetrain": "FF",
+      "power_bhp": 167,
+      "weight_kg": 1180,
+      "aspiration": "Supercharger",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "GTO Twin Turbo '91",
+      "country": "Japan",
+      "manufacturer": "Mitsubishi",
+      "year": 1991,
+      "base_pp": 473.34,
+      "category": "-",
+      "drivetrain": "4WD",
+      "power_bhp": 285,
+      "weight_kg": 1700,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Lancer Evolution III GSR '95",
+      "country": "Japan",
+      "manufacturer": "Mitsubishi",
+      "year": 1995,
+      "base_pp": 474.33,
+      "category": "-",
+      "drivetrain": "4WD",
+      "power_bhp": 264,
+      "weight_kg": 1260,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Lancer Evolution IV GSR '96",
+      "country": "Japan",
+      "manufacturer": "Mitsubishi",
+      "year": 1996,
+      "base_pp": 478.84,
+      "category": "-",
+      "drivetrain": "4WD",
+      "power_bhp": 273,
+      "weight_kg": 1350,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Lancer Evolution V GSR '98",
+      "country": "Japan",
+      "manufacturer": "Mitsubishi",
+      "year": 1998,
+      "base_pp": 500.10,
+      "category": "-",
+      "drivetrain": "4WD",
+      "power_bhp": 306,
+      "weight_kg": 1360,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Lancer Evolution VI GSR T.M. SCP '99",
+      "country": "Japan",
+      "manufacturer": "Mitsubishi",
+      "year": 1999,
+      "base_pp": 505.52,
+      "category": "-",
+      "drivetrain": "4WD",
+      "power_bhp": 311,
+      "weight_kg": 1360,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Concept XR-PHEV EVOLUTION VGT",
+      "country": "Japan",
+      "manufacturer": "Mitsubishi",
+      "year": 2014,
+      "base_pp": 681.83,
+      "category": "-",
+      "drivetrain": "4WD",
+      "power_bhp": 502,
+      "weight_kg": 1350,
+      "aspiration": "Turbo",
+      "tags": [
+        "Racing Car",
+        "Vision Gran Turismo",
+        "Hybrid Car"
+      ]
+    },
+    {
+      "name": "Lancer Evolution Final '15",
+      "country": "Japan",
+      "manufacturer": "Mitsubishi",
+      "year": 2015,
+      "base_pp": 511.88,
+      "category": "-",
+      "drivetrain": "4WD",
+      "power_bhp": 309,
+      "weight_kg": 1530,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Fairlady Z 432 '69",
+      "country": "Japan",
+      "manufacturer": "Nissan",
+      "year": 1969,
+      "base_pp": 401.29,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 157,
+      "weight_kg": 1040,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Skyline Hard Top 2000GT-R (KPGC10) '70",
+      "country": "Japan",
+      "manufacturer": "Nissan",
+      "year": 1970,
+      "base_pp": 389.09,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 157,
+      "weight_kg": 1100,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Fairlady 240Z (HS30) '71",
+      "country": "Japan",
+      "manufacturer": "Nissan",
+      "year": 1971,
+      "base_pp": 397.51,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 147,
+      "weight_kg": 1010,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Skyline 2000GT-R (KPGC110) '73",
+      "country": "Japan",
+      "manufacturer": "Nissan",
+      "year": 1973,
+      "base_pp": 381.49,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 157,
+      "weight_kg": 1145,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Silvia Q's (S13) '88",
+      "country": "Japan",
+      "manufacturer": "Nissan",
+      "year": 1988,
+      "base_pp": 371.71,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 132,
+      "weight_kg": 1090,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Fairlady Z 300ZX TT 2seater '89",
+      "country": "Japan",
+      "manufacturer": "Nissan",
+      "year": 1989,
+      "base_pp": 478.64,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 276,
+      "weight_kg": 1510,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Silvia K's Dia Selection (S13) '90",
+      "country": "Japan",
+      "manufacturer": "Nissan",
+      "year": 1990,
+      "base_pp": 406.74,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 171,
+      "weight_kg": 1140,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "R32 GT-R NISMO '90",
+      "country": "Japan",
+      "manufacturer": "Nissan",
+      "year": 1990,
+      "base_pp": 508.43,
+      "category": "-",
+      "drivetrain": "4WD",
+      "power_bhp": 306,
+      "weight_kg": 1400,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "R32 GT-R V-Spec II '94",
+      "country": "Japan",
+      "manufacturer": "Nissan",
+      "year": 1994,
+      "base_pp": 506.39,
+      "category": "-",
+      "drivetrain": "4WD",
+      "power_bhp": 306,
+      "weight_kg": 1500,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Silvia K's Type S (S14) '94",
+      "country": "Japan",
+      "manufacturer": "Nissan",
+      "year": 1994,
+      "base_pp": 472.22,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 216,
+      "weight_kg": 1220,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "180SX Type X '96",
+      "country": "Japan",
+      "manufacturer": "Nissan",
+      "year": 1996,
+      "base_pp": 458.15,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 203,
+      "weight_kg": 1220,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Silvia K's Aero (S14) '96",
+      "country": "Japan",
+      "manufacturer": "Nissan",
+      "year": 1996,
+      "base_pp": 470.56,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 216,
+      "weight_kg": 1250,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "R33 GT-R V-Spec '97",
+      "country": "Japan",
+      "manufacturer": "Nissan",
+      "year": 1997,
+      "base_pp": 510.49,
+      "category": "-",
+      "drivetrain": "4WD",
+      "power_bhp": 319,
+      "weight_kg": 1540,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Sileighty '98",
+      "country": "Japan",
+      "manufacturer": "Nissan",
+      "year": 1998,
+      "base_pp": 462.18,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 203,
+      "weight_kg": 1170,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "R34 GT-R V-Spec II Nür '02",
+      "country": "Japan",
+      "manufacturer": "Nissan",
+      "year": 2002,
+      "base_pp": 517.82,
+      "category": "-",
+      "drivetrain": "4WD",
+      "power_bhp": 336,
+      "weight_kg": 1560,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Silvia spec-R Aero (S15) '02",
+      "country": "Japan",
+      "manufacturer": "Nissan",
+      "year": 2002,
+      "base_pp": 489.46,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 246,
+      "weight_kg": 1240,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Fairlady Z Version S (Z33) '07",
+      "country": "Japan",
+      "manufacturer": "Nissan",
+      "year": 2007,
+      "base_pp": 516.69,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 310,
+      "weight_kg": 1480,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Fairlady Z (Z34) '08",
+      "country": "Japan",
+      "manufacturer": "Nissan",
+      "year": 2008,
+      "base_pp": 515.65,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 331,
+      "weight_kg": 1530,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "GT-R NISMO GT3 '13",
+      "country": "Japan",
+      "manufacturer": "Nissan",
+      "year": 2013,
+      "base_pp": 695.41,
+      "category": "Gr.3",
+      "drivetrain": "FR",
+      "power_bhp": 591,
+      "weight_kg": 1300,
+      "aspiration": "Turbo",
+      "tags": [
+        "Racing Car",
+        "Nürburgring 24 Hours"
+      ]
+    },
+    {
+      "name": "GT-R NISMO GT500 '16",
+      "country": "Japan",
+      "manufacturer": "Nissan",
+      "year": 2016,
+      "base_pp": 835.68,
+      "category": "Gr.2",
+      "drivetrain": "FR",
+      "power_bhp": 612,
+      "weight_kg": 1020,
+      "aspiration": "Turbo",
+      "tags": [
+        "Racing Car",
+        "GT500"
+      ]
+    },
+    {
+      "name": "GT-R '17",
+      "country": "Japan",
+      "manufacturer": "Nissan",
+      "year": 2017,
+      "base_pp": 588.71,
+      "category": "-",
+      "drivetrain": "4WD",
+      "power_bhp": 564,
+      "weight_kg": 1770,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "GT-R Nismo '17",
+      "country": "Japan",
+      "manufacturer": "Nissan",
+      "year": 2017,
+      "base_pp": 616.78,
+      "category": "-",
+      "drivetrain": "4WD",
+      "power_bhp": 591,
+      "weight_kg": 1740,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "GT-R Nismo GT3 '18",
+      "country": "Japan",
+      "manufacturer": "Nissan",
+      "year": 2018,
+      "base_pp": 711.73,
+      "category": "Gr.3",
+      "drivetrain": "FR",
+      "power_bhp": 576,
+      "weight_kg": 1285,
+      "aspiration": "Turbo",
+      "tags": [
+        "Racing Car"
+      ]
+    },
+    {
+      "name": "Z Performance '23",
+      "country": "Japan",
+      "manufacturer": "Nissan",
+      "year": 2023,
+      "base_pp": 541.30,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 399,
+      "weight_kg": 1543,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "GT-R Gr.4",
+      "country": "Japan",
+      "manufacturer": "Nissan",
+      "year": -1,
+      "base_pp": 633.33,
+      "category": "Gr.4",
+      "drivetrain": "4WD",
+      "power_bhp": 428,
+      "weight_kg": 1450,
+      "aspiration": "Turbo",
+      "tags": [
+        "Racing Car"
+      ]
+    },
+    {
+      "name": "GT-R Safety Car",
+      "country": "Japan",
+      "manufacturer": "Nissan",
+      "year": -1,
+      "base_pp": 590.87,
+      "category": "-",
+      "drivetrain": "4WD",
+      "power_bhp": 564,
+      "weight_kg": 1740,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car",
+        "Safety Car"
+      ]
+    },
+    {
+      "name": "Silvia spec-R Aero (S15) Touring Car",
+      "country": "Japan",
+      "manufacturer": "Nissan",
+      "year": -1,
+      "base_pp": 635.88,
+      "category": "Gr.4",
+      "drivetrain": "FR",
+      "power_bhp": 355,
+      "weight_kg": 1000,
+      "aspiration": "Turbo",
+      "tags": [
+        "Racing Car"
+      ]
+    },
+    {
+      "name": "Zonda R '09",
+      "country": "Italy",
+      "manufacturer": "Pagani",
+      "year": 2009,
+      "base_pp": 764.67,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 737,
+      "weight_kg": 1070,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Racing Car",
+        "Concept Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "Huayra '13",
+      "country": "Italy",
+      "manufacturer": "Pagani",
+      "year": 2013,
+      "base_pp": 674.78,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 730,
+      "weight_kg": 1350,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "205 Turbo 16 Evolution 2 '86",
+      "country": "France",
+      "manufacturer": "Peugeot",
+      "year": 1986,
+      "base_pp": 657.30,
+      "category": "Gr.B",
+      "drivetrain": "4WD",
+      "power_bhp": 448,
+      "weight_kg": 910,
+      "aspiration": "Turbo",
+      "tags": [
+        "Racing Car",
+        "WRC",
+        "Midship"
+      ]
+    },
+    {
+      "name": "208 GTi by Peugeot Sport '14",
+      "country": "France",
+      "manufacturer": "Peugeot",
+      "year": 2014,
+      "base_pp": 457.40,
+      "category": "-",
+      "drivetrain": "FF",
+      "power_bhp": 204,
+      "weight_kg": 1200,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "RCZ GT Line '15",
+      "country": "France",
+      "manufacturer": "Peugeot",
+      "year": 2015,
+      "base_pp": 423.24,
+      "category": "-",
+      "drivetrain": "FF",
+      "power_bhp": 152,
+      "weight_kg": 1350,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "RCZ Gr.4",
+      "country": "France",
+      "manufacturer": "Peugeot",
+      "year": -1,
+      "base_pp": 623.28,
+      "category": "Gr.4",
+      "drivetrain": "FF",
+      "power_bhp": 345,
+      "weight_kg": 1225,
+      "aspiration": "Turbo",
+      "tags": [
+        "Racing Car"
+      ]
+    },
+    {
+      "name": "XNR Ghia Roadster '60",
+      "country": "United States",
+      "manufacturer": "Plymouth",
+      "year": 1960,
+      "base_pp": 416.93,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 250,
+      "weight_kg": 1500,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car",
+        "Gran Turismo Trophy"
+      ]
+    },
+    {
+      "name": "Superbird '70",
+      "country": "United States",
+      "manufacturer": "Plymouth",
+      "year": 1970,
+      "base_pp": 456.18,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 425,
+      "weight_kg": 1755,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "GTO 'The Judge' '69",
+      "country": "United States",
+      "manufacturer": "Pontiac",
+      "year": 1969,
+      "base_pp": 458.39,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 364,
+      "weight_kg": 1610,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Firebird Trans Am '78",
+      "country": "United States",
+      "manufacturer": "Pontiac",
+      "year": 1978,
+      "base_pp": 403.53,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 219,
+      "weight_kg": 1640,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Spyder type 550/1500RS '55",
+      "country": "Germany",
+      "manufacturer": "Porsche",
+      "year": 1955,
+      "base_pp": 436.49,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 108,
+      "weight_kg": 590,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Racing Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "356 A/1500 GS Carrera '56",
+      "country": "Germany",
+      "manufacturer": "Porsche",
+      "year": 1956,
+      "base_pp": 355.73,
+      "category": "-",
+      "drivetrain": "RR",
+      "power_bhp": 97,
+      "weight_kg": 840,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "911 Carrera RS (901) '73",
+      "country": "Germany",
+      "manufacturer": "Porsche",
+      "year": 1973,
+      "base_pp": 481.30,
+      "category": "-",
+      "drivetrain": "RR",
+      "power_bhp": 206,
+      "weight_kg": 1075,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "911 Turbo (930) '81",
+      "country": "Germany",
+      "manufacturer": "Porsche",
+      "year": 1981,
+      "base_pp": 507.06,
+      "category": "-",
+      "drivetrain": "RR",
+      "power_bhp": 295,
+      "weight_kg": 1300,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "959 '87",
+      "country": "Germany",
+      "manufacturer": "Porsche",
+      "year": 1987,
+      "base_pp": 557.63,
+      "category": "-",
+      "drivetrain": "4WD",
+      "power_bhp": 443,
+      "weight_kg": 1450,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "962 C '88",
+      "country": "Germany",
+      "manufacturer": "Porsche",
+      "year": 1988,
+      "base_pp": 843.55,
+      "category": "Gr.1",
+      "drivetrain": "MR",
+      "power_bhp": 690,
+      "weight_kg": 850,
+      "aspiration": "Turbo",
+      "tags": [
+        "Racing Car",
+        "Le Mans",
+        "Midship"
+      ]
+    },
+    {
+      "name": "911 Carrera RS (964) '92",
+      "country": "Germany",
+      "manufacturer": "Porsche",
+      "year": 1992,
+      "base_pp": 520.29,
+      "category": "-",
+      "drivetrain": "RR",
+      "power_bhp": 255,
+      "weight_kg": 1230,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "911 Carrera RS CS (993) '95",
+      "country": "Germany",
+      "manufacturer": "Porsche",
+      "year": 1995,
+      "base_pp": 529.59,
+      "category": "-",
+      "drivetrain": "RR",
+      "power_bhp": 295,
+      "weight_kg": 1235,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "911 Carrera RS (993) '95",
+      "country": "Germany",
+      "manufacturer": "Porsche",
+      "year": 1995,
+      "base_pp": 530.21,
+      "category": "-",
+      "drivetrain": "RR",
+      "power_bhp": 295,
+      "weight_kg": 1270,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "911 GT3 (996) '01",
+      "country": "Germany",
+      "manufacturer": "Porsche",
+      "year": 2001,
+      "base_pp": 548.92,
+      "category": "-",
+      "drivetrain": "RR",
+      "power_bhp": 354,
+      "weight_kg": 1350,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "911 GT3 (997) '09",
+      "country": "Germany",
+      "manufacturer": "Porsche",
+      "year": 2009,
+      "base_pp": 573.43,
+      "category": "-",
+      "drivetrain": "RR",
+      "power_bhp": 428,
+      "weight_kg": 1395,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "918 Spyder '13",
+      "country": "Germany",
+      "manufacturer": "Porsche",
+      "year": 2013,
+      "base_pp": 682.68,
+      "category": "-",
+      "drivetrain": "4WD",
+      "power_bhp": 874,
+      "weight_kg": 1674,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car",
+        "Hybrid Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "919 Hybrid '16",
+      "country": "Germany",
+      "manufacturer": "Porsche",
+      "year": 2016,
+      "base_pp": 887.48,
+      "category": "Gr.1",
+      "drivetrain": "4WD",
+      "power_bhp": 499,
+      "weight_kg": 875,
+      "aspiration": "Turbo",
+      "tags": [
+        "Racing Car",
+        "Hybrid Car",
+        "Le Mans",
+        "Midship"
+      ]
+    },
+    {
+      "name": "Cayman GT4 '16",
+      "country": "Germany",
+      "manufacturer": "Porsche",
+      "year": 2016,
+      "base_pp": 570.20,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 379,
+      "weight_kg": 1340,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "911 RSR (991) '17",
+      "country": "Germany",
+      "manufacturer": "Porsche",
+      "year": 2017,
+      "base_pp": 709.76,
+      "category": "Gr.3",
+      "drivetrain": "MR",
+      "power_bhp": 509,
+      "weight_kg": 1243,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Racing Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "Taycan Turbo S '19",
+      "country": "Germany",
+      "manufacturer": "Porsche",
+      "year": 2019,
+      "base_pp": 600.84,
+      "category": "-",
+      "drivetrain": "4WD",
+      "power_bhp": 751,
+      "weight_kg": 2295,
+      "aspiration": "Electric Vehicle",
+      "tags": [
+        "Road Car",
+        "Electric Car"
+      ]
+    },
+    {
+      "name": "Porsche VGT",
+      "country": "Germany",
+      "manufacturer": "Porsche",
+      "year": 2021,
+      "base_pp": 799.71,
+      "category": "-",
+      "drivetrain": "4WD",
+      "power_bhp": 1098,
+      "weight_kg": 1390,
+      "aspiration": "Electric Vehicle",
+      "tags": [
+        "Road Car",
+        "Vision Gran Turismo",
+        "Electric Car"
+      ]
+    },
+    {
+      "name": "917 LIVING LEGEND",
+      "country": "Germany",
+      "manufacturer": "Porsche",
+      "year": -1,
+      "base_pp": 800.80,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 976,
+      "weight_kg": 1220,
+      "aspiration": "Turbo",
+      "tags": [
+        "Racing Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "SR3 SL '13",
+      "country": "United Kingdom",
+      "manufacturer": "Radical",
+      "year": 2013,
+      "base_pp": 551.27,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 239,
+      "weight_kg": 775,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "Roadster Shop Rampage",
+      "country": "United States",
+      "manufacturer": "Roadster Shop",
+      "year": -2,
+      "base_pp": 654.30,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 748,
+      "weight_kg": 1406,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Professionally Tuned",
+        "Gran Turismo Award"
+      ]
+    },
+    {
+      "name": "RE Amemiya FD3S RX-7",
+      "country": "Japan",
+      "manufacturer": "RE Amemiya",
+      "year": -1,
+      "base_pp": 566.37,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 366,
+      "weight_kg": 1240,
+      "aspiration": "Turbo",
+      "tags": [
+        "Professionally Tuned"
+      ]
+    },
+    {
+      "name": "R5 Gordini '66",
+      "country": "France",
+      "manufacturer": "Renault",
+      "year": 1966,
+      "base_pp": 351.93,
+      "category": "-",
+      "drivetrain": "RR",
+      "power_bhp": 101,
+      "weight_kg": 850,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Racing Car"
+      ]
+    },
+    {
+      "name": "R5 Turbo '80",
+      "country": "France",
+      "manufacturer": "Renault",
+      "year": 1980,
+      "base_pp": 405.25,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 159,
+      "weight_kg": 970,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "Clio V6 24V '00",
+      "country": "France",
+      "manufacturer": "Renault",
+      "year": 2000,
+      "base_pp": 468.85,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 229,
+      "weight_kg": 1335,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "Mégane R.S. Trophy '11",
+      "country": "France",
+      "manufacturer": "Renault",
+      "year": 2011,
+      "base_pp": 498.65,
+      "category": "-",
+      "drivetrain": "FF",
+      "power_bhp": 261,
+      "weight_kg": 1387,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Clio R.S. 220 Trophy '15",
+      "country": "France",
+      "manufacturer": "Renault",
+      "year": 2015,
+      "base_pp": 471.60,
+      "category": "-",
+      "drivetrain": "FF",
+      "power_bhp": 216,
+      "weight_kg": 1179,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "R.S. 01 '16",
+      "country": "France",
+      "manufacturer": "Renault",
+      "year": 2016,
+      "base_pp": 731.23,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 542,
+      "weight_kg": 1144,
+      "aspiration": "Turbo",
+      "tags": [
+        "Racing Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "Clio R.S. 220 Trophy '16",
+      "country": "France",
+      "manufacturer": "Renault",
+      "year": 2016,
+      "base_pp": 470.11,
+      "category": "-",
+      "drivetrain": "FF",
+      "power_bhp": 216,
+      "weight_kg": 1204,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Mégane R.S. Trophy Safety Car",
+      "country": "France",
+      "manufacturer": "Renault",
+      "year": -1,
+      "base_pp": 499.17,
+      "category": "-",
+      "drivetrain": "FF",
+      "power_bhp": 261,
+      "weight_kg": 1387,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car",
+        "Safety Car"
+      ]
+    },
+    {
+      "name": "CTR3 '07",
+      "country": "Germany",
+      "manufacturer": "RUF",
+      "year": 2007,
+      "base_pp": 655.13,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 690,
+      "weight_kg": 1400,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "G.T.350 '65",
+      "country": "United States",
+      "manufacturer": "Shelby",
+      "year": 1965,
+      "base_pp": 465.52,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 304,
+      "weight_kg": 1270,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Cobra 427 '66",
+      "country": "United States",
+      "manufacturer": "Shelby",
+      "year": 1966,
+      "base_pp": 580.14,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 484,
+      "weight_kg": 1068,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Impreza 22B-STi '98",
+      "country": "Japan",
+      "manufacturer": "Subaru",
+      "year": 1998,
+      "base_pp": 502.15,
+      "category": "-",
+      "drivetrain": "4WD",
+      "power_bhp": 289,
+      "weight_kg": 1270,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Impreza Coupe WRX Type R STi Ver.VI '99",
+      "country": "Japan",
+      "manufacturer": "Subaru",
+      "year": 1999,
+      "base_pp": 481.24,
+      "category": "-",
+      "drivetrain": "4WD",
+      "power_bhp": 276,
+      "weight_kg": 1260,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Impreza Sedan WRX STi '04",
+      "country": "Japan",
+      "manufacturer": "Subaru",
+      "year": 2004,
+      "base_pp": 491.59,
+      "category": "-",
+      "drivetrain": "4WD",
+      "power_bhp": 286,
+      "weight_kg": 1460,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "WRX STI Type S '14",
+      "country": "Japan",
+      "manufacturer": "Subaru",
+      "year": 2014,
+      "base_pp": 495.87,
+      "category": "-",
+      "drivetrain": "4WD",
+      "power_bhp": 302,
+      "weight_kg": 1490,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "BRZ S '15",
+      "country": "Japan",
+      "manufacturer": "Subaru",
+      "year": 2015,
+      "base_pp": 444.42,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 197,
+      "weight_kg": 1230,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "BRZ Drift Car '17",
+      "country": "Japan",
+      "manufacturer": "Subaru",
+      "year": 2017,
+      "base_pp": 632.25,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 1037,
+      "weight_kg": 1433,
+      "aspiration": "Turbo",
+      "tags": [
+        "Racing Car"
+      ]
+    },
+    {
+      "name": "BRZ STI Sport '18",
+      "country": "Japan",
+      "manufacturer": "Subaru",
+      "year": 2018,
+      "base_pp": 460.65,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 203,
+      "weight_kg": 1250,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "BRZ GT300 '21",
+      "country": "Japan",
+      "manufacturer": "Subaru",
+      "year": 2021,
+      "base_pp": 729.38,
+      "category": "Gr.3",
+      "drivetrain": "FR",
+      "power_bhp": 478,
+      "weight_kg": 1150,
+      "aspiration": "Turbo",
+      "tags": [
+        "Racing Car",
+        "GT300"
+      ]
+    },
+    {
+      "name": "BRZ S '21",
+      "country": "Japan",
+      "manufacturer": "Subaru",
+      "year": 2021,
+      "base_pp": 489.22,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 231,
+      "weight_kg": 1270,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "WRX Gr.B Rally Car",
+      "country": "Japan",
+      "manufacturer": "Subaru",
+      "year": -1,
+      "base_pp": 657.66,
+      "category": "Gr.B",
+      "drivetrain": "4WD",
+      "power_bhp": 521,
+      "weight_kg": 1280,
+      "aspiration": "Turbo",
+      "tags": [
+        "Racing Car"
+      ]
+    },
+    {
+      "name": "WRX Gr.B Road Car",
+      "country": "Japan",
+      "manufacturer": "Subaru",
+      "year": -1,
+      "base_pp": 576.36,
+      "category": "-",
+      "drivetrain": "4WD",
+      "power_bhp": 473,
+      "weight_kg": 1425,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "SF19 Super Formula / Honda '19",
+      "country": "Japan",
+      "manufacturer": "Super Formula",
+      "year": 2019,
+      "base_pp": 953.64,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 639,
+      "weight_kg": 660,
+      "aspiration": "Turbo",
+      "tags": [
+        "Racing Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "Cappuccino '91",
+      "country": "Japan",
+      "manufacturer": "Suzuki",
+      "year": 1991,
+      "base_pp": 292.95,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 62,
+      "weight_kg": 700,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car",
+        "Kei Car"
+      ]
+    },
+    {
+      "name": "V6 Escudo Pikes Peak Special '98",
+      "country": "Japan",
+      "manufacturer": "Suzuki",
+      "year": 1998,
+      "base_pp": 792.57,
+      "category": "-",
+      "drivetrain": "4WD",
+      "power_bhp": 981,
+      "weight_kg": 800,
+      "aspiration": "Turbo",
+      "tags": [
+        "Racing Car",
+        "Pikes Peak",
+        "Midship"
+      ]
+    },
+    {
+      "name": "Swift Sport '07",
+      "country": "Japan",
+      "manufacturer": "Suzuki",
+      "year": 2007,
+      "base_pp": 396.88,
+      "category": "-",
+      "drivetrain": "FF",
+      "power_bhp": 123,
+      "weight_kg": 1060,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Swift Sport '17",
+      "country": "Japan",
+      "manufacturer": "Suzuki",
+      "year": 2017,
+      "base_pp": 425.91,
+      "category": "-",
+      "drivetrain": "FF",
+      "power_bhp": 137,
+      "weight_kg": 970,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Model S Signature Performance '12",
+      "country": "United States",
+      "manufacturer": "Tesla",
+      "year": 2012,
+      "base_pp": 536.56,
+      "category": "-",
+      "drivetrain": "RR",
+      "power_bhp": 410,
+      "weight_kg": 2018,
+      "aspiration": "Electric Vehicle",
+      "tags": [
+        "Road Car",
+        "Electric Car"
+      ]
+    },
+    {
+      "name": "Sports 800 '65",
+      "country": "Japan",
+      "manufacturer": "Toyota",
+      "year": 1965,
+      "base_pp": 232.80,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 43,
+      "weight_kg": 580,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "2000GT '67",
+      "country": "Japan",
+      "manufacturer": "Toyota",
+      "year": 1967,
+      "base_pp": 397.56,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 153,
+      "weight_kg": 1120,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Corolla Levin 1600GT APEX (AE86) '83",
+      "country": "Japan",
+      "manufacturer": "Toyota",
+      "year": 1983,
+      "base_pp": 370.42,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 127,
+      "weight_kg": 940,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Sprinter Trueno 1600GT APEX (AE86) '83",
+      "country": "Japan",
+      "manufacturer": "Toyota",
+      "year": 1983,
+      "base_pp": 370.40,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 127,
+      "weight_kg": 940,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Supra 3.0GT Turbo A '88",
+      "country": "Japan",
+      "manufacturer": "Toyota",
+      "year": 1988,
+      "base_pp": 470.19,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 266,
+      "weight_kg": 1530,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Celica GT-FOUR (ST205) '94",
+      "country": "Japan",
+      "manufacturer": "Toyota",
+      "year": 1994,
+      "base_pp": 467.44,
+      "category": "-",
+      "drivetrain": "4WD",
+      "power_bhp": 250,
+      "weight_kg": 1380,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Celica GT-FOUR Rally Car (ST205) '95",
+      "country": "Japan",
+      "manufacturer": "Toyota",
+      "year": 1995,
+      "base_pp": 583.63,
+      "category": "Gr.B",
+      "drivetrain": "4WD",
+      "power_bhp": 298,
+      "weight_kg": 1200,
+      "aspiration": "Turbo",
+      "tags": [
+        "Racing Car",
+        "WRC"
+      ]
+    },
+    {
+      "name": "Supra RZ '97",
+      "country": "Japan",
+      "manufacturer": "Toyota",
+      "year": 1997,
+      "base_pp": 511.59,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 325,
+      "weight_kg": 1510,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "MR2 GT-S '97",
+      "country": "Japan",
+      "manufacturer": "Toyota",
+      "year": 1997,
+      "base_pp": 482.02,
+      "category": "-",
+      "drivetrain": "MR",
+      "power_bhp": 241,
+      "weight_kg": 1270,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car",
+        "Midship"
+      ]
+    },
+    {
+      "name": "Supra GT500 '97",
+      "country": "Japan",
+      "manufacturer": "Toyota",
+      "year": 1997,
+      "base_pp": 711.70,
+      "category": "Gr.3",
+      "drivetrain": "FR",
+      "power_bhp": 492,
+      "weight_kg": 1150,
+      "aspiration": "Turbo",
+      "tags": [
+        "Racing Car",
+        "GT500"
+      ]
+    },
+    {
+      "name": "Sprinter Trueno 1600GT APEX (S.Shigeno Version)",
+      "country": "Japan",
+      "manufacturer": "Toyota",
+      "year": 2000,
+      "base_pp": 510.13,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 207,
+      "weight_kg": 825,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Professionally Tuned"
+      ]
+    },
+    {
+      "name": "Prius G '09",
+      "country": "Japan",
+      "manufacturer": "Toyota",
+      "year": 2009,
+      "base_pp": 373.35,
+      "category": "-",
+      "drivetrain": "FF",
+      "power_bhp": 120,
+      "weight_kg": 1350,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car",
+        "Hybrid Car"
+      ]
+    },
+    {
+      "name": "Aqua S '11",
+      "country": "Japan",
+      "manufacturer": "Toyota",
+      "year": 2011,
+      "base_pp": 353.02,
+      "category": "-",
+      "drivetrain": "FF",
+      "power_bhp": 120,
+      "weight_kg": 1080,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car",
+        "Hybrid Car"
+      ]
+    },
+    {
+      "name": "Crown Athlete G '13",
+      "country": "Japan",
+      "manufacturer": "Toyota",
+      "year": 2013,
+      "base_pp": 489.97,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 309,
+      "weight_kg": 1650,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "S-FR '15",
+      "country": "Japan",
+      "manufacturer": "Toyota",
+      "year": 2015,
+      "base_pp": 412.60,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 133,
+      "weight_kg": 1050,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car",
+        "Concept Car"
+      ]
+    },
+    {
+      "name": "86 GT '15",
+      "country": "Japan",
+      "manufacturer": "Toyota",
+      "year": 2015,
+      "base_pp": 444.47,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 197,
+      "weight_kg": 1230,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "86 GRMN '16",
+      "country": "Japan",
+      "manufacturer": "Toyota",
+      "year": 2016,
+      "base_pp": 468.27,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 214,
+      "weight_kg": 1220,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Professionally Tuned"
+      ]
+    },
+    {
+      "name": "86 GT\"Limited\" '16",
+      "country": "Japan",
+      "manufacturer": "Toyota",
+      "year": 2016,
+      "base_pp": 448.27,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 203,
+      "weight_kg": 1240,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "S-FR Racing Concept '16",
+      "country": "Japan",
+      "manufacturer": "Toyota",
+      "year": 2016,
+      "base_pp": 551.18,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 349,
+      "weight_kg": 1150,
+      "aspiration": "Turbo",
+      "tags": [
+        "Professionally Tuned",
+        "Concept Car"
+      ]
+    },
+    {
+      "name": "GR Supra Racing Concept '18",
+      "country": "Japan",
+      "manufacturer": "Toyota",
+      "year": 2018,
+      "base_pp": 723.51,
+      "category": "Gr.3",
+      "drivetrain": "FR",
+      "power_bhp": 591,
+      "weight_kg": 1243,
+      "aspiration": "Turbo",
+      "tags": [
+        "Racing Car"
+      ]
+    },
+    {
+      "name": "Alphard Executive Lounge '18",
+      "country": "Japan",
+      "manufacturer": "Toyota",
+      "year": 2018,
+      "base_pp": 394.88,
+      "category": "-",
+      "drivetrain": "4WD",
+      "power_bhp": 296,
+      "weight_kg": 2210,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "GR Supra RZ '19",
+      "country": "Japan",
+      "manufacturer": "Toyota",
+      "year": 2019,
+      "base_pp": 536.32,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 335,
+      "weight_kg": 1520,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Tundra TRD Pro '19",
+      "country": "Japan",
+      "manufacturer": "Toyota",
+      "year": 2019,
+      "base_pp": 421.71,
+      "category": "-",
+      "drivetrain": "4WD",
+      "power_bhp": 379,
+      "weight_kg": 2555,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car",
+        "Pickup Truck"
+      ]
+    },
+    {
+      "name": "GR Supra Race Car '19",
+      "country": "Japan",
+      "manufacturer": "Toyota",
+      "year": 2019,
+      "base_pp": 638.80,
+      "category": "Gr.4",
+      "drivetrain": "FR",
+      "power_bhp": 394,
+      "weight_kg": 1380,
+      "aspiration": "Turbo",
+      "tags": [
+        "Racing Car"
+      ]
+    },
+    {
+      "name": "GR Supra RZ '20",
+      "country": "Japan",
+      "manufacturer": "Toyota",
+      "year": 2020,
+      "base_pp": 544.59,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 382,
+      "weight_kg": 1530,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "GR Yaris RZ \"High performance\" '20",
+      "country": "Japan",
+      "manufacturer": "Toyota",
+      "year": 2020,
+      "base_pp": 504.79,
+      "category": "-",
+      "drivetrain": "4WD",
+      "power_bhp": 268,
+      "weight_kg": 1290,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "GR86 RZ '21",
+      "country": "Japan",
+      "manufacturer": "Toyota",
+      "year": 2021,
+      "base_pp": 489.49,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 231,
+      "weight_kg": 1270,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "GR010 HYBRID '21",
+      "country": "Japan",
+      "manufacturer": "Toyota",
+      "year": 2021,
+      "base_pp": 861.86,
+      "category": "Gr.1",
+      "drivetrain": "4WD",
+      "power_bhp": 670,
+      "weight_kg": 1040,
+      "aspiration": "Turbo",
+      "tags": [
+        "Racing Car",
+        "Hybrid Car",
+        "Le Mans",
+        "Midship"
+      ]
+    },
+    {
+      "name": "Himedic '21",
+      "country": "Japan",
+      "manufacturer": "Toyota",
+      "year": 2021,
+      "base_pp": 243.31,
+      "category": "-",
+      "drivetrain": "4WD",
+      "power_bhp": 157,
+      "weight_kg": 2860,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "GR Corolla MORIZO Edition '22",
+      "country": "Japan",
+      "manufacturer": "Toyota",
+      "year": 2022,
+      "base_pp": 513.62,
+      "category": "-",
+      "drivetrain": "4WD",
+      "power_bhp": 299,
+      "weight_kg": 1445,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "FT-1 VGT (Gr.3)",
+      "country": "Japan",
+      "manufacturer": "Toyota",
+      "year": -1,
+      "base_pp": 706.72,
+      "category": "Gr.3",
+      "drivetrain": "FR",
+      "power_bhp": 544,
+      "weight_kg": 1280,
+      "aspiration": "Turbo",
+      "tags": [
+        "Racing Car",
+        "Vision Gran Turismo"
+      ]
+    },
+    {
+      "name": "86 Gr.4",
+      "country": "Japan",
+      "manufacturer": "Toyota",
+      "year": -1,
+      "base_pp": 633.77,
+      "category": "Gr.4",
+      "drivetrain": "FR",
+      "power_bhp": 358,
+      "weight_kg": 1200,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Racing Car"
+      ]
+    },
+    {
+      "name": "86 Gr.B Rally Car",
+      "country": "Japan",
+      "manufacturer": "Toyota",
+      "year": -1,
+      "base_pp": 664.72,
+      "category": "Gr.B",
+      "drivetrain": "4WD",
+      "power_bhp": 516,
+      "weight_kg": 1180,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Racing Car"
+      ]
+    },
+    {
+      "name": "Crown Athlete G Safety Car",
+      "country": "Japan",
+      "manufacturer": "Toyota",
+      "year": -1,
+      "base_pp": 486.95,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 309,
+      "weight_kg": 1650,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car",
+        "Safety Car"
+      ]
+    },
+    {
+      "name": "Tuscan Speed 6 '00",
+      "country": "United Kingdom",
+      "manufacturer": "TVR",
+      "year": 2000,
+      "base_pp": 562.69,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 360,
+      "weight_kg": 1100,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Sambabus Typ 2 '62",
+      "country": "Germany",
+      "manufacturer": "Volkswagen",
+      "year": 1962,
+      "base_pp": 116.31,
+      "category": "-",
+      "drivetrain": "RR",
+      "power_bhp": 33,
+      "weight_kg": 1095,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Volkswagen 1200 '66",
+      "country": "Germany",
+      "manufacturer": "Volkswagen",
+      "year": 1966,
+      "base_pp": 177.83,
+      "category": "-",
+      "drivetrain": "RR",
+      "power_bhp": 33,
+      "weight_kg": 780,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Golf I GTI '83",
+      "country": "Germany",
+      "manufacturer": "Volkswagen",
+      "year": 1983,
+      "base_pp": 353.45,
+      "category": "-",
+      "drivetrain": "FF",
+      "power_bhp": 110,
+      "weight_kg": 890,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Scirocco R '10",
+      "country": "Germany",
+      "manufacturer": "Volkswagen",
+      "year": 2010,
+      "base_pp": 502.86,
+      "category": "-",
+      "drivetrain": "FF",
+      "power_bhp": 252,
+      "weight_kg": 1410,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Golf VII GTI '14",
+      "country": "Germany",
+      "manufacturer": "Volkswagen",
+      "year": 2014,
+      "base_pp": 461.64,
+      "category": "-",
+      "drivetrain": "FF",
+      "power_bhp": 216,
+      "weight_kg": 1390,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Polo GTI '14",
+      "country": "Germany",
+      "manufacturer": "Volkswagen",
+      "year": 2014,
+      "base_pp": 443.75,
+      "category": "-",
+      "drivetrain": "FF",
+      "power_bhp": 189,
+      "weight_kg": 1272,
+      "aspiration": "Turbo",
+      "tags": [
+        "Road Car"
+      ]
+    },
+    {
+      "name": "Beetle Gr.3",
+      "country": "Germany",
+      "manufacturer": "Volkswagen",
+      "year": -2,
+      "base_pp": 724.45,
+      "category": "Gr.3",
+      "drivetrain": "FR",
+      "power_bhp": 591,
+      "weight_kg": 1200,
+      "aspiration": "Turbo",
+      "tags": [
+        "Racing Car"
+      ]
+    },
+    {
+      "name": "Volkswagen GTI VGT (Gr.3)",
+      "country": "Germany",
+      "manufacturer": "Volkswagen",
+      "year": -2,
+      "base_pp": 693.32,
+      "category": "Gr.3",
+      "drivetrain": "MR",
+      "power_bhp": 551,
+      "weight_kg": 1260,
+      "aspiration": "Turbo",
+      "tags": [
+        "Racing Car",
+        "Vision Gran Turismo",
+        "Midship"
+      ]
+    },
+    {
+      "name": "Scirocco Gr.4",
+      "country": "Germany",
+      "manufacturer": "Volkswagen",
+      "year": -2,
+      "base_pp": 645.81,
+      "category": "Gr.4",
+      "drivetrain": "FF",
+      "power_bhp": 358,
+      "weight_kg": 1050,
+      "aspiration": "Turbo",
+      "tags": [
+        "Racing Car"
+      ]
+    },
+    {
+      "name": "Wicked Fabrication GT 51",
+      "country": "United States",
+      "manufacturer": "Wicked Fabrication",
+      "year": -2,
+      "base_pp": 518.90,
+      "category": "-",
+      "drivetrain": "FR",
+      "power_bhp": 372,
+      "weight_kg": 1338,
+      "aspiration": "Naturally Aspirated",
+      "tags": [
+        "Professionally Tuned",
+        "Gran Turismo Award"
+      ]
+    }
+  ]
+}

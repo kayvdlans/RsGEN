@@ -1,0 +1,43 @@
+﻿Create a prediction model based on Praiano's Tunes and see if we can create a baseline for tunes based on the data we have.
+This is not to replace manual tuning, but rather a fun experiment to see possibilities and limitations of machine learning
+when it comes to tuning setups.
+
+Initially we can seperate between these groups:
+- Racing Car Groups (Gr.1, Gr.2, Gr.3, Gr.4, Gr.B)
+- Road Car Groups (N100, N200, N300, N400, N500, N600, N700, N800, N900)
+
+We might also want to check them all together to see if there is a difference between how the groups are created.
+
+
+So we will need to differentiate between input values by the user and the output values that we want to predict.
+
+//TODO: SEE TUNE SCREEN FOR INPUT VALUES / OUTPUT VALUES
+### Input values
+- Tyres (?)
+- Aero Values
+- Max Powerd
+- Max Torque
+- Displacement
+- Weight
+- Front-Rear Weight Balance
+
+### Output values
+
+## Suspension
+- Body Height Adjustment (Front/Rear)
+- Anti Roll Bar (Front/Rear)
+- Damping Ratio (Compression) (Front/Rear)
+- Damping Ratio (Expansion) (Front/Rear)
+- Natural Frequency (Front/Rear)
+- Negative Camber Angle (Front/Rear)
+- Toe Angle (Front/Rear)
+
+## Differential ** Front only for 4WD **
+- Initial Torque (Front/Rear)
+- Acceleration Sensitivity (Front/Rear)
+- Braking Sensitivity (Front/Rear)
+
+Required Translations:
+- HP -> BHP         (1 HP = 0.986 BHP)
+- ft-lb -> kgfm     (1 ft-lb = 0.13825 kgfm)
+- lbs -> kg         (1 lbs = 0.45359 kg)
