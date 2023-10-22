@@ -72,3 +72,6 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 /.idea
+
+/[Aa]ssets/[Rr]esources/[Nn]on[Ii]nclude.meta
+/[Aa]ssets/[Rr]esources/[Nn]on[Ii]nclude/*
