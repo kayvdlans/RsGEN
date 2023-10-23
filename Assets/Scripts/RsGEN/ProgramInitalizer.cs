@@ -20,9 +20,11 @@ namespace RsGEN
         private DataLoader _dataLoader;
         private CarDataProcessor _carDataProcessor;
         private CarListController _carListController;
+        private RaceGen _raceGen;
 
         private void Start()
         {
+            _raceGen = new RaceGen();
             _carListController = new CarListController();
             _carDataProcessor = new CarDataProcessor();
             _dataLoader = new DataLoader(carDataJson, trackDataJson, raceSettingsDataJson);

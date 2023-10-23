@@ -8,7 +8,8 @@ namespace RsGEN
 {
     public class CarListController
     {
-        public static event EventHandler<CarListRefreshedEventArgs> CarListRefreshed;
+        public static event EventHandler<CarListEventArgs> CarListRefreshed;
+        public static event EventHandler<CarListEventArgs> CarListSaved;
 
         public const string COUNTRY = "Country";
         public const string MANUFACTURER = "Manufacturer";
@@ -18,17 +19,37 @@ namespace RsGEN
         public const string TAGS = "Tags";
 
         private CarDataProcessor _dataProcessor;
-        private List<CarData> _carSelection;
+        private List<CarData> _completeCarList;
+        private List<CarData> _currentCarList;
 
         public CarListController()
         {
+            DataLoader.DataLoaded += OnDataLoaded;
             CarDataProcessor.DataProcessed += OnDataProcessed;
         }
 
         ~CarListController()
         {
+            DataLoader.DataLoaded -= OnDataLoaded;
             CarDataProcessor.DataProcessed += OnDataProcessed;
             CarListRefreshed = null;
+            CarListSaved = null;
+        }
+
+        private void OnDataLoaded(object sender, DataLoader.DataLoadedEventArgs e)
+        {
+            if (sender.GetType() != typeof(DataLoader)) return;
+            if (e.DataType != DataLoader.DataLoadedEventArgs.DataTypes.CarData) return;
+
+            _completeCarList = new List<CarData>(e.CarData.cars);
+            _currentCarList = _completeCarList;
+
+            var args = new CarListEventArgs
+            {
+                CarList = _currentCarList
+            };
+
+            CarListRefreshed?.Invoke(this, args);
         }
 
         private void OnDataProcessed(object sender, EventArgs e)
@@ -38,24 +59,39 @@ namespace RsGEN
             _dataProcessor = (CarDataProcessor)sender;
 
             FilterOptionsUI.OnRequestRefresh += OnRequestRefresh;
+            CarListUI.OnSave += OnSave;
         }
 
         private void OnRequestRefresh(object sender, FilterOptionsUI.RequestRefreshEventArgs e)
         {
             if (sender.GetType() != typeof(FilterOptionsUI)) return;
 
-            _carSelection = FilterCars(e.CheckedOptions);
+            _currentCarList = FilterCars(e.CheckedOptions);
 
-            var args = new CarListRefreshedEventArgs
+            var args = new CarListEventArgs
             {
-                CarList = _carSelection
+                CarList = _currentCarList
             };
 
             CarListRefreshed?.Invoke(this, args);
         }
 
+        private void OnSave(object sender, EventArgs args)
+        {
+            if (sender.GetType() != typeof(CarListUI)) return;
+
+            var carListArgs = new CarListEventArgs
+            {
+                CarList = _currentCarList
+            };
+
+            CarListSaved?.Invoke(this, carListArgs);
+        }
+
         private List<CarData> FilterCars(List<(string type, string name)> checkedOptions)
         {
+            if (checkedOptions.Count == 0) return _completeCarList;
+            
             var carSelection = new List<CarData>();
             foreach (var option in checkedOptions)
                 switch (option.type)
@@ -96,7 +132,7 @@ namespace RsGEN
             return currentSelection;
         }
 
-        public class CarListRefreshedEventArgs : EventArgs
+        public class CarListEventArgs : EventArgs
         {
             public List<CarData> CarList { get; set; }
         }

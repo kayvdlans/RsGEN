@@ -1,27 +1,36 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using RsGEN.Data;
 using UnityEngine;
+using UnityEngine.UI;
 
 namespace RsGEN.UI
 {
     public class CarListUI : MonoBehaviour
     {
-        private List<CarData> _completeCarList;
+        public static event EventHandler OnSave;
+        
         private List<CarData> _carList;
 
         [SerializeField] private CarListEntry carListEntryPrefab;
         [SerializeField] private Transform carListContent;
+        [SerializeField] private Button saveButton;
 
         private void Awake()
         {
             DataLoader.DataLoaded += PrepareCarList;
             CarListController.CarListRefreshed += UpdateCarList;
+
+            saveButton.onClick.AddListener(Save);
         }
 
         private void OnDestroy()
         {
             DataLoader.DataLoaded -= PrepareCarList;
             CarListController.CarListRefreshed -= UpdateCarList;
+            OnSave = null;
+
+            saveButton.onClick.RemoveListener(Save);
         }
 
         private void PrepareCarList(object sender, DataLoader.DataLoadedEventArgs e)
@@ -30,10 +39,6 @@ namespace RsGEN.UI
             if (e.DataType != DataLoader.DataLoadedEventArgs.DataTypes.CarData) return;
             if (carListContent.childCount == e.CarData.cars.Length) return;
 
-            Debug.Log("should prepare car list");
-
-            _completeCarList = new List<CarData>(e.CarData.cars);
-
             //If for whatever reason the car list is longer than the number of cars in the data, destroy the excess entries.
             while (carListContent.childCount > e.CarData.cars.Length)
                 Destroy(carListContent.GetChild(carListContent.childCount - 1).gameObject);
@@ -41,24 +46,20 @@ namespace RsGEN.UI
             while (carListContent.childCount < e.CarData.cars.Length) Instantiate(carListEntryPrefab, carListContent);
 
             RefreshCarList();
-
-            Debug.Log("Car list prepared");
         }
 
-        private void UpdateCarList(object sender, CarListController.CarListRefreshedEventArgs e)
+        private void UpdateCarList(object sender, CarListController.CarListEventArgs e)
         {
             if (sender.GetType() != typeof(CarListController)) return;
 
             _carList = e.CarList;
 
             RefreshCarList();
-
-            Debug.Log("Car list updated");
         }
 
         private void RefreshCarList()
         {
-            if (_carList == null || _carList.Count == 0) _carList = _completeCarList;
+            if (_carList == null || _carList.Count == 0) return;
 
             for (var i = 0; i < carListContent.childCount; i++)
                 if (i < _carList.Count)
@@ -85,6 +86,11 @@ namespace RsGEN.UI
             }
 
             return false;
+        }
+
+        private void Save()
+        {
+            OnSave?.Invoke(this, EventArgs.Empty);
         }
     }
 }
