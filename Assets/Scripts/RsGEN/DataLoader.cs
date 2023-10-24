@@ -12,13 +12,15 @@ namespace RsGEN
         private TrackDataCollection _trackData;
         private RaceSettingsData _raceSettingsData;
 
+        private readonly TextAsset _carDataJson;
+        private readonly TextAsset _trackDataJson;
+        private readonly TextAsset _raceSettingsDataJson;
+
         public DataLoader(TextAsset carDataJson, TextAsset trackDataJson, TextAsset raceSettingsDataJson)
         {
-            LoadCarData(carDataJson);
-            LoadTrackData(trackDataJson);
-            LoadRaceSettings(raceSettingsDataJson);
-
-            Debug.Log("Data loaded");
+            _carDataJson = carDataJson;
+            _trackDataJson = trackDataJson;
+            _raceSettingsDataJson = raceSettingsDataJson;
         }
 
         ~DataLoader()
@@ -26,9 +28,9 @@ namespace RsGEN
             DataLoaded = null;
         }
 
-        private void LoadCarData(TextAsset json)
+        public void LoadCarData()
         {
-            _carData = JsonUtility.FromJson<CarDataCollection>(json.text);
+            _carData = JsonUtility.FromJson<CarDataCollection>(_carDataJson.text);
 
             var args = new DataLoadedEventArgs
             {
@@ -39,9 +41,9 @@ namespace RsGEN
             DataLoaded?.Invoke(this, args);
         }
 
-        private void LoadTrackData(TextAsset json)
+        public void LoadTrackData()
         {
-            _trackData = JsonUtility.FromJson<TrackDataCollection>(json.text);
+            _trackData = JsonUtility.FromJson<TrackDataCollection>(_trackDataJson.text);
 
             var args = new DataLoadedEventArgs
             {
@@ -52,9 +54,9 @@ namespace RsGEN
             DataLoaded?.Invoke(this, args);
         }
 
-        private void LoadRaceSettings(TextAsset json)
+        public void LoadRaceSettings()
         {
-            _raceSettingsData = JsonUtility.FromJson<RaceSettingsData>(json.text);
+            _raceSettingsData = JsonUtility.FromJson<RaceSettingsData>(_raceSettingsDataJson.text);
 
             var args = new DataLoadedEventArgs
             {
