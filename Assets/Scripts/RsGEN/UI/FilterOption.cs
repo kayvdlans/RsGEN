@@ -37,7 +37,6 @@ namespace RsGEN.UI
 
         public bool Checked => toggle.isOn;
         public string Type { get; private set; }
-
         public string OptionName => textOptionName.text;
     }
 }
