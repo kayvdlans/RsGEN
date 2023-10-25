@@ -66,8 +66,8 @@ namespace RsGEN
 
         public class SetupEventArgs : EventArgs
         {
-            public GenType GenType { get; set; }
-            public List<RSPreset> RacePresets { get; set; }
+            public GenType GenType { get; private set; }
+            public List<RSPreset> RacePresets { get; private set; }
         }
     }
 }
