@@ -76,10 +76,10 @@ namespace RsGEN
                 RaceSettingsData
             }
 
-            public DataTypes DataType { get; set; }
-            public CarDataCollection CarData { get; set; }
-            public TrackDataCollection TrackData { get; set; }
-            public RaceSettingsData RaceSettingsData { get; set; }
+            public DataTypes DataType { get; private set; }
+            public CarDataCollection CarData { get; private set; }
+            public TrackDataCollection TrackData { get; private set; }
+            public RaceSettingsData RaceSettingsData { get; private set; }
         }
     }
 }
