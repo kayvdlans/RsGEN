@@ -134,7 +134,7 @@ namespace RsGEN
 
         public class CarListEventArgs : EventArgs
         {
-            public List<CarData> CarList { get; set; }
+            public List<CarData> CarList { get; private set; }
         }
     }
 }
