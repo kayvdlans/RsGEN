@@ -6,7 +6,14 @@ namespace RsGEN
 {
     public class CarDataProcessor
     {
-        public static event EventHandler DataProcessed;
+        public static event EventHandler<DataProcessedEventArgs> DataProcessed;
+
+        private readonly Dictionary<string, List<CarData>> _carsByCountry = new();
+        private readonly Dictionary<string, List<CarData>> _carsByManufacturer = new();
+        private readonly Dictionary<string, List<CarData>> _carsByCategory = new();
+        private readonly Dictionary<string, List<CarData>> _carsByDrivetrain = new();
+        private readonly Dictionary<string, List<CarData>> _carsByAspiration = new();
+        private readonly Dictionary<string, List<CarData>> _carsByTag = new();
 
         public CarDataProcessor()
         {
@@ -25,16 +32,25 @@ namespace RsGEN
 
             foreach (var car in args.CarData.cars)
             {
-                UpdateDictionary(CarsByCountry, car, car.country);
-                UpdateDictionary(CarsByManufacturer, car, car.manufacturer);
-                UpdateDictionary(CarsByCategory, car, car.category);
-                UpdateDictionary(CarsByDrivetrain, car, car.drivetrain);
-                UpdateDictionary(CarsByAspiration, car, car.aspiration);
+                UpdateDictionary(_carsByCountry, car, car.country);
+                UpdateDictionary(_carsByManufacturer, car, car.manufacturer);
+                UpdateDictionary(_carsByCategory, car, car.category);
+                UpdateDictionary(_carsByDrivetrain, car, car.drivetrain);
+                UpdateDictionary(_carsByAspiration, car, car.aspiration);
 
                 foreach (var tag in car.tags) UpdateDictionary(CarsByTag, car, tag);
             }
 
-            DataProcessed?.Invoke(this, EventArgs.Empty);
+            DataProcessedEventArgs args = new DataProcessedEventArgs() 
+            {
+                CarsByCountry = _carsByCountry,
+                CarsByManufacturer = _carsByManufacturer,
+                CarsByCategory = _carsByCategory,
+                CarsByDrivertrain = _carsByDrivetrain,
+                CarsByAspiration = _carsByAspiration
+            };
+            
+            DataProcessed?.Invoke(this, args);
         }
 
         private void UpdateDictionary<T>(Dictionary<T, List<CarData>> dictionary, CarData car, T key)
@@ -44,16 +60,13 @@ namespace RsGEN
             dictionary[key].Add(car);
         }
 
-        public Dictionary<string, List<CarData>> CarsByCountry { get; } = new();
-
-        public Dictionary<string, List<CarData>> CarsByManufacturer { get; } = new();
-
-        public Dictionary<string, List<CarData>> CarsByCategory { get; } = new();
-
-        public Dictionary<string, List<CarData>> CarsByDrivetrain { get; } = new();
-
-        public Dictionary<string, List<CarData>> CarsByAspiration { get; } = new();
-
-        public Dictionary<string, List<CarData>> CarsByTag { get; } = new();
+        public class DataProcessedEventArgs : EventArgs 
+        {
+            public Dictioniary<string, List<CarData>> CarsByCountry { get; private set; }
+            public Dictioniary<string, List<CarData>> CarsByManufacturer { get; private set; }
+            public Dictioniary<string, List<CarData>> CarsByCategory { get; private set; }
+            public Dictioniary<string, List<CarData>> CarsByDrivetrain { get; private set; }
+            public Dictioniary<string, List<CarData>> CarsByAspiration { get; private set; }
+        }
     }
 }

@@ -85,7 +85,7 @@ namespace RsGEN.UI
 
         public class RequestRefreshEventArgs : EventArgs
         {
-            public List<(string type, string name)> CheckedOptions { get; set; }
+            public List<(string type, string name)> CheckedOptions { get; private set; }
         }
     }
 }
