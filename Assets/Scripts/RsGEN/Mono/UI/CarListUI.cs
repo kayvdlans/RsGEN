@@ -4,7 +4,7 @@ using RsGEN.Data;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace RsGEN.UI
+namespace RsGEN.Mono.UI
 {
     public class CarListUI : MonoBehaviour
     {
@@ -48,11 +48,11 @@ namespace RsGEN.UI
             RefreshCarList();
         }
 
-        private void UpdateCarList(object sender, CarListController.CarListEventArgs e)
+        private void UpdateCarList(object sender, List<CarData> e)
         {
             if (sender.GetType() != typeof(CarListController)) return;
 
-            _carList = e.CarList;
+            _carList = e;
 
             RefreshCarList();
         }

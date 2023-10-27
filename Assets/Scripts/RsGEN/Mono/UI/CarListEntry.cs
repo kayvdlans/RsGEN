@@ -3,7 +3,7 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace RsGEN.UI
+namespace RsGEN.Mono.UI
 {
     public class CarListEntry : MonoBehaviour
     {
@@ -14,8 +14,8 @@ namespace RsGEN.UI
         [SerializeField] private TextMeshProUGUI nameText;
         [SerializeField] private TextMeshProUGUI countryText;
         [SerializeField] private TextMeshProUGUI manufacturerText;
-
         [SerializeField] private TextMeshProUGUI yearText;
+        
         // [SerializeField] private TextMeshPro basePpText;
         // [SerializeField] private TextMeshPro categoryText;
         // [SerializeField] private TextMeshPro drivetrainText;

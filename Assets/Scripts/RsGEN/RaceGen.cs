@@ -43,11 +43,11 @@ namespace RsGEN
             _racePresets = e.RacePresets;
         }
 
-        private void OnCarListSaved(object sender, CarListController.CarListEventArgs e)
+        private void OnCarListSaved(object sender, List<CarData> e)
         {
             if (sender.GetType() != typeof(CarListController)) return;
 
-            _carSelection = e.CarList;
+            _carSelection = e;
 
             //temporary until generate UI is implemented
             GenerateRace();

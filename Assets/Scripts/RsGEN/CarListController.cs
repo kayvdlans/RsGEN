@@ -2,14 +2,14 @@
 using System.Collections.Generic;
 using System.Linq;
 using RsGEN.Data;
-using RsGEN.UI;
+using RsGEN.Mono.UI;
 
 namespace RsGEN
 {
     public class CarListController
     {
-        public static event EventHandler<CarListEventArgs> CarListRefreshed;
-        public static event EventHandler<CarListEventArgs> CarListSaved;
+        public static event EventHandler<List<CarData>> CarListRefreshed;
+        public static event EventHandler<List<CarData>> CarListSaved;
 
         public const string COUNTRY = "Country";
         public const string MANUFACTURER = "Manufacturer";
@@ -44,12 +44,7 @@ namespace RsGEN
             _completeCarList = new List<CarData>(e.CarData.cars);
             _currentCarList = _completeCarList;
 
-            var args = new CarListEventArgs
-            {
-                CarList = _currentCarList
-            };
-
-            CarListRefreshed?.Invoke(this, args);
+            CarListRefreshed?.Invoke(this, _currentCarList);
         }
 
         private void OnDataProcessed(object sender, EventArgs e)
@@ -62,30 +57,20 @@ namespace RsGEN
             CarListUI.OnSave += OnSave;
         }
 
-        private void OnRequestRefresh(object sender, FilterOptionsUI.RequestRefreshEventArgs e)
+        private void OnRequestRefresh(object sender, List<(string type, string name)> e)
         {
             if (sender.GetType() != typeof(FilterOptionsUI)) return;
 
-            _currentCarList = FilterCars(e.CheckedOptions);
+            _currentCarList = FilterCars(e);
 
-            var args = new CarListEventArgs
-            {
-                CarList = _currentCarList
-            };
-
-            CarListRefreshed?.Invoke(this, args);
+            CarListRefreshed?.Invoke(this, _currentCarList);
         }
 
         private void OnSave(object sender, EventArgs args)
         {
             if (sender.GetType() != typeof(CarListUI)) return;
 
-            var carListArgs = new CarListEventArgs
-            {
-                CarList = _currentCarList
-            };
-
-            CarListSaved?.Invoke(this, carListArgs);
+            CarListSaved?.Invoke(this, _currentCarList);
         }
 
         private List<CarData> FilterCars(List<(string type, string name)> checkedOptions)
@@ -130,11 +115,6 @@ namespace RsGEN
             if (dictValues != null) currentSelection = currentSelection.Union(dictValues).ToList();
 
             return currentSelection;
-        }
-
-        public class CarListEventArgs : EventArgs
-        {
-            public List<CarData> CarList { get; set; }
         }
     }
 }

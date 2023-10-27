@@ -3,7 +3,7 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace RsGEN.UI
+namespace RsGEN.Mono.UI
 {
     public class FilterOption : MonoBehaviour
     {

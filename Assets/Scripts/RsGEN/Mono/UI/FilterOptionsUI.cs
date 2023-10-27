@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using RsGEN.Data;
 using UnityEngine;
 
-namespace RsGEN.UI
+namespace RsGEN.Mono.UI
 {
     //TODO: POSSIBLY NEEDED IN THE FUTURE, REFRESH FILTER OPTIONS LIST WHEN DATA IS PROCESSED (DELETE OLD AND ADD NEW)
     public class FilterOptionsUI : MonoBehaviour
     {
-        public static event EventHandler<RequestRefreshEventArgs> OnRequestRefresh;
+        public static event EventHandler<List<(string type, string name)>> OnRequestRefresh;
 
         private CarDataProcessor _dataProcessor;
         private readonly List<(string type, string name)> _checkedOptions = new();
@@ -75,17 +75,7 @@ namespace RsGEN.UI
             else if (!option.Checked && _checkedOptions.Contains((option.Type, option.OptionName)))
                 _checkedOptions.Remove((option.Type, option.OptionName));
 
-            var args = new RequestRefreshEventArgs
-            {
-                CheckedOptions = _checkedOptions
-            };
-
-            OnRequestRefresh?.Invoke(this, args);
-        }
-
-        public class RequestRefreshEventArgs : EventArgs
-        {
-            public List<(string type, string name)> CheckedOptions { get; set; }
+            OnRequestRefresh?.Invoke(this, _checkedOptions);
         }
     }
 }

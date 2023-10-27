@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using UnityEngine;
 
-namespace RsGEN
+namespace RsGEN.Mono
 {
     /**
      * Purely making this class to avoid having to drag endless scripts into the scene when introducing classes that
